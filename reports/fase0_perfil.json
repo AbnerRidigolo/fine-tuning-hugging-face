@@ -1,0 +1,70 @@
+{
+  "linhas_csv": 99224,
+  "review_id_unicos": 98410,
+  "review_id_repetidos_linhas": 814,
+  "comentarios_nao_vazios": 40950,
+  "pct_com_comentario": 41.27,
+  "com_titulo": 9830,
+  "chars": {
+    "media": 68.3,
+    "p5": 8.0,
+    "p25": 28.0,
+    "p50": 53.0,
+    "p75": 94.0,
+    "p95": 192.0,
+    "p99": 200.0,
+    "max": 208
+  },
+  "palavras": {
+    "media": 11.7,
+    "p5": 1.0,
+    "p25": 4.0,
+    "p50": 9.0,
+    "p75": 16.0,
+    "p95": 33.0,
+    "p99": 37.0,
+    "max": 45
+  },
+  "comentarios_ate_3_chars": 809,
+  "notas_todos_reviews": {
+    "1": 11424,
+    "2": 3151,
+    "3": 8179,
+    "4": 19142,
+    "5": 57328
+  },
+  "notas_com_comentario": {
+    "1": 8744,
+    "2": 2145,
+    "3": 3556,
+    "4": 5970,
+    "5": 20535
+  },
+  "pct_notas_com_comentario": {
+    "1": 21.35,
+    "2": 5.24,
+    "3": 8.68,
+    "4": 14.58,
+    "5": 50.15
+  },
+  "textos_duplicados_exatos": 5335,
+  "textos_duplicados_ignorando_caixa": 5952,
+  "textos_unicos": 35615,
+  "top_textos_repetidos": {
+    "Muito bom": 305,
+    "Bom": 215,
+    "Ótimo": 158,
+    "Recomendo": 153,
+    "muito bom": 144,
+    "bom": 111,
+    "otimo": 108,
+    "Excelente": 108,
+    "Otimo": 107,
+    "Ok": 78,
+    "recomendo": 71,
+    "Ótimo produto": 67,
+    "ok": 58,
+    "Boa": 55,
+    ".": 52
+  }
+}
