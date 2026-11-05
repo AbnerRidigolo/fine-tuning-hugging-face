@@ -1,0 +1,401 @@
+id_gold,review_id,order_id,review_score,texto
+G001,644926b134945775fcc996aec98f3680,010ff1cfe12f3094577e72b7bcecdf98,3,Comprei um produto e veio faltando na entrega...
+G002,0a1d32916189ec275ae23b9a294023be,81896eba4fe92a3bb71bcf392296f77f,4,"A loja postou bem rápido, embalagem simples, mas a encomenda estava bem protegido dentro da caixa. O correio atrasou a entrega."
+G003,487cfccb76f0d38b26871324e800802a,69d4b792fad7f4acff2e38e426f5e3ea,1,Comprei faz meses esse relógio e até a presente data não recebi e me sinto lesado e prejudicado pois comprei com antecedência para dar de presente e não chegou até agora!
+G004,26181a4847cff3a60f9eb005f2179cda,29049da83627b9d57b5f4f9bf861378c,3,Entrega rápida e produto conforme anúncio
+G005,920b5eb8563218e7baf78da63da6eebb,56a48a43efddc6a4b83370214985d366,2,aCHEI O PRODUTO DE UMA CATGORIA INFERIOR AO QUE IMAGINAVA. 18O FIOS MUITO DUROS E ASPEROS.
+G006,e7c06f0c7dd0fbfa56a8804503d44b1c,3fdc7dae10900f3b484cae506870d823,2,só não gostei da qualidade do pano da cortinha poderia avisar que é plastico e não pano
+G007,f30607d97766b94ee61a590d40fee7a2,231f6725cc4f33c7d2473e21240e34fe,5,dsdfr3fEF
+G008,8eb61fc560a7479dfe176b8ef1ccfbfa,f149be0602ecbdd2222b8fdfa075a73f,2,O produto que recebi é diferente e inferior ao anunciado. Quero devolver.
+G009,73f8bd539df506203f60e9e575075704,15ad076013b4586c67a8eaa4c0fa4370,4,O produto apresenta a qualidade muito baixa e defeito de fabricação do mosquiteiro.
+G010,fe5e4133b0db28481fa240e96f28daeb,14acf0ab4732322f187e0fd6871a6cbe,2,Tamanho super diferente da imagem do anúncio! Super chateada com a diferença!
+G011,05a82ef7eec443d16dd35560ec541067,ed5c53daefe487fab95ccd2afaf61bb0,1,Demora. Eu compro tudo pelo baratheon aí vem tudo separado no cartão. Pq as lojas são diferentes. Horrível
+G012,8686039970e6766ad14e6e699c1306ee,d10046876c7d9f01613da59ffa6cb07f,5,"Antes di prazo, foi entregue. Muito bem embalado! Obrigado e Parabéns!"
+G013,72926e5236768ffc912764ca429d0e00,1d6df969542603d9f097e871bff9a9b7,1,Muita demora na entrega
+G014,4e47e7119ca07c41754e179ad800a150,ed362cd4cc1db144970bc67fcf848fd6,1,"Péssima empresa, não entregou o produto e não responde as minhas solicitações de cancelamento.já paguei a primeira parcela e não tive nenhum retorno"
+G015,2480ae2d2615f70dc842b73405cfb473,a9cdfd538e3a7e3fa7f39bb4197c6a44,2,Estou aguardando posicionamento da empresa.
+G016,935323f347fab70cbcdf8e20c5f4e005,fd190164f3696146e8a668324f90edc0,1,Não foi entregue na minha residencia tive que buscar nos correios
+G017,90974ab9857ddf72bd372132de69a304,df87f618719ef397d4681011b2e2e934,4,Sim eu recomendaria o produto chegou antes da data tudo certinho
+G018,e36f207c1e0f9b9bc4f48711d69ef7e4,8dbbaa1122fc9db0a1c9955c388cd3b9,5,Eu adorei o produto
+G019,79b9d818ce4690a39b9f8700b1351564,c4ff8f56a1fdb2e9dcb882b73903d104,3,"só ficou pequena, futuramente pedirei uma maior se tiver"
+G020,414da9515032da5367f35bc7a6a41767,2d21065be26736159d37305af015d63c,5,Não sei informar porque foi presente
+G021,c1b5ad0cdb637ee832afdeaac2862713,530d6b82444d29e791d959a7c3ce4559,1,"O produto não funciona, demora demais par o envio e depois para resolver a devolução"
+G022,9837c1aa57c1116c83c2dd5050f685aa,216c6c60eaa02facee10abb4ca3a9c6f,1,"o produto veio quebrado ,,, quero devolver"
+G023,7a845d0d61a2195360d6856d4f0bbaa8,efd5eba320d140f8659440d74a81fc90,5,"agradeço muito, pois recebi o produto correto conforme encontrado no site, a entrega foi super rápida. fiquei muito satisfeito e com certeza vou recomentar para os amigo."
+G024,fd731670f93fa4f1340c0eefa2686e2b,7a11a4388ec8fa8d1f52220d47de5a58,4,Recebi o produto de acordo com o que foi solicitado e foi entregue muito antes do prazo
+G025,2de909c9653925c9bdb502826aaa6c1c,3f9c0ca2b7837ae6d1c8fa78e9b8e139,1,Preciso fazer o cancelamento dessa compra pois até agora nada foi entregue
+G026,a52c661faf55fc43cc42c2181adc93c3,ec618314861f02fad4e606d750489ee5,5,"Tudo ótimo, principalmente por que o produto chegou antes do prazo... obrigado!"
+G027,5c21268a0f8bae726edb3aa4db3e6bde,0036757472ece3dde52fd4bfd929c90e,2,"Demora absurda para entrega, dentro do prazo especificado por eles, mas ainda sim muito demorado!"
+G028,76b7f392d84986f8c04c229fa4783d5e,ce5ac3d77cca9ee37ace392eb33cee3f,3,"Prazo compatível ao preço cobrado, ágil."
+G029,304ced8d39b43da6a7153b36ba1ea76e,d22de2b954752f441e769425053dcbd7,4,Poderia ser sedex ao invés de PAC.
+G030,4eaa82f080ee7beb88e21657704884da,ef4327728e4c06e8ca7c8da666e4438d,2,"Eu comprei uma carteira, que chegou até antes do prazo. Porém, em menos de um mês de uso,o acabamento da carteira se soltou todo."
+G031,f0f7d33935ce811d4efe3f46ee576b95,73689c18cffbd61ae75e2983453b4689,5,chegou em ordem dentro do prazo.
+G032,60e1ba35384ec22b6c4f64f8e5ef725e,cb064e8f8f0371573859e393d973c337,3,ainda não testei o produto. achei um pouco frágil. não sei se vai dar para dar chupeta numa s10
+G033,89d00006ae17938866ed70830c845fbb,fdf440c2e9c4b940d8bac16acb13c7c0,4,As sacolas são menores do que aparentam.
+G034,9333382df549be705dca73fb8153b6da,0d33a1e4f7c4426e2adf540cb219baef,1,"Não foi entregue a máscara reconstrutora, o selante veio mal embalado e vazou muito. O produto não tinha lacre na tampa. Não recomendo. Muito ruim."
+G035,6a68895c962ab9b633fca7d2a08e310d,908260019f25b12feacd1911f2f08525,3,Quase um mês de atraso na entrega
+G036,fdd2a2aa5328047534cae53d5175b606,e78e6c2d9d913cda60562cd825c90374,2,Recebi o relógio cronometro mas não recebi a argola olímpica.
+G037,c2d743e9cdfb74a2a007091fc658238e,b1a7bd6a9d10076c91e88bc510406b46,2,"BOM DIA VENHO INFORMAR QUE O PRODUTO NÃO FOI ENTREGUE EM MINHA RESIDENCIA, FAZENDO COM QUE EU GASTASSE DUAS VEZES , UMA COM TAXA DE ENTREGA E OUTRA COM A NECESSIDADE DE IR BUSCAR NOS CORREIOS."
+G038,2c3d0e973902c6db6ef14a1a91e5dee0,098a083175759c53525b6288a6e46119,5,Excelente chegou no prazo.
+G039,53de55a9b8bac8dd6179d5ca417533cc,793b7a8a6150d038052487e8a2af52ec,2,"Boa noite. ... quando fiz o pedido era um kit com 3 , pedi 2 unidades do kit , recebi apenas 2 unidades. .. e não os kits."
+G040,f69bf052b3b43abde9856c27c1b8bf05,626add0c9183e7802564bf732e183dd1,2,"Recebi o produto certinho, mas quero o reembolso do frete pois eu paguei e tive que ir buscar no correio. Gastei gasolina e ainda paguei o frete, sacanagem"
+G041,668c3ab37481f9d477fba77ae8803def,ef3b6bd27aca9b9f50e6ad8be5a2b8e5,5,adorei muito linda e pratica . recomendo!!
+G042,46859b964175e16b6654af4c5a13f531,ab5e82cf45c456a01f4aa7d2b287a361,1,Considerando o site stark nunca tive problema algum e recomendo ao meus amigos porém está empresa que está atendendo com a venda do produto deixou a desejar com o prazo de entrega... Será q chega?
+G043,2c7b443884a4f7b7c212b590578f76fe,4ef685e6dcade551ce14cb3783ca664d,1,O produto não foi entregue!
+G044,439b500e7b724bd99c57a8be9438afba,186fc1aa898961515ca374b0a320f6e8,1,ainda não recebi meu produto e quero saber como anda a entrega. Estou pensando em cancelar a compra.
+G045,c32bfbad9cac2eed9870ca13626d9559,b6a4acd4de8a93e329ace89646cd7363,2,Bem simples mais o valor era compativel
+G046,53f6dd65b23dc8f959c88c54d3c864de,987b7884b5b6e23a2b4d35d8213815a2,5,"Produto lindo, ótimo material, muito feliz com minha compra!!!"
+G047,df0eacf4d85c543131c4ebdda368743d,bd692242647dcc885acaafe72c34eae0,2,"veio produto diferente da foto , modelo diferente"
+G048,907180509f3eb4a77c7a59045226f9fd,7b95d76914bb5cec919366223c2f3190,3,"O tapete é muito bonito, mas veio menor do que o especificado no anúncio. A medida informada era de 2m x 2m e veio 1,80 x 1,80."
+G049,ac3eb9d230d6aab9176cbf783e215d48,493e8e1cbab42239778580dfb102b213,1,Não gostei e não recomendo. O som é baixo e logo de início já não funcionou um dos lados do fone. Horrível
+G050,7791c8dcd1d88628cb718c1daa19d700,178a419a329f2b4bf50a68f7357f8fce,3,Nao cabe no meu ps4...
+G051,9364ac5f9db46b2ea389cea4e5389529,4ef8fef15b3a1986d266d349b21ab021,1,O produto ainda não chegou!!!!
+G052,75197fa9cffa9792f80b02b9e3d2a99a,af4de21fc01c7d4570f5bcbbb28cbd75,5,Posso aceitar isso e meu coração continua aberto
+G053,fc5dbcc06c6b31162ee4eb960b3f91d7,effeb0c3ecae530d0470721524db864f,5,A compra do produto e sua entrega foram realizadas de forma satisfatória Naõ houve contratempo algum Tudo correu sem maiores contratempos
+G054,baaba628eaceecb3392b703a1bab6c4e,880a2443009447fa88b518da4806fc93,1,Não obtive nenhuma resposta do site em relação ao atraso da entrega do produto
+G055,44d53f15929dee0ee3e806f5a5e34b92,4dee0af7a42637f58cde016b73d93216,5,Entrega rápida
+G056,beca43af2351f68ef6067d91a950b9d2,741fd1b80f015f170a7f458cf86769b8,1,Nao gostei do produto pois veio com detalhes no acabamento e com sinais que ja foram uzados
+G057,6689aabfeb781e9fc59aceb91b5de579,df410b19c3e348fb548ae68badd49827,3,so demorou um pouco mais valeu
+G058,b9787ea6385fee0d5336537995f0cb22,24c3a42d44d3abc0e029451a1d73342a,3,"A estampa é muito linda, a caminha para o cachorrinho também. O tecido poderia ser um pouquinho melhor. Mas, estou satisfeita."
+G059,33a0abe4f6491bc5f16801f20cac1617,02c8da4642d8bb546d022a0701ea1b5a,1,Preciso fazer a troca e não tem ninguém que me dê o suporte para me auxiliar. No site não estou conseguindo.
+G060,4aa51e843001b02ff922b133446ffe9f,c936f9b318f6683d2b902e1219ed2490,2,Comprei 02 produtos e só recebi 01.
+G061,04c17aaad5d50a6ea5e86ac461df0278,759daf685e390bf00ca48c53b132205b,2,"Não fica bom se instalado em azulejos, pois marca muito nos rejuntes, ficando com muitas bolhas..por isso não indico o produto, a loja entregou super rápido."
+G062,a7f6249bf36070acb4bae03b9e802cf3,dd621d7d942344da783d1d390dc06f17,4,"Veio tudo certinho e antes da data prevista.Apenas 1 pequeno pedaço da árvore veio c/ a madeira comida,vou tentar preencher c/ pó de madeira,próximo ao aniversário irei montar as peças e ver melhor."
+G063,411b556001ea0caf11baae8a6556962e,e52d6fd1fb812c9f263fd19fddb957d9,4,"não veio tudo em um pacote só, foi chegando separado .. mas chegou tudo certinho"
+G064,aace238b157154c2d0f6955b7d05960a,08c01d43e93f5c485f48758550d41eb9,1,Estou no aguardo da entrega dos produtos.
+G065,57f42ef76cd67dc7575082f526a92ab4,9e404de5caad33c6cbff720e0d721008,2,até o momento não recebi meu produto
+G066,bf2529d058f3084237802849c961d742,648baaf2d0ad94dfad6cb960e3133012,1,"a bomba nao chegou na minha residencia, so veio a luminaria."
+G067,b407238dd50c401b0cb73e81c2dd74fb,a07c319b821b5707ba0b018c7ad63aef,5,Bom vendedor chegou dentro do prazo tudo ok
+G068,ad67cacac67e8b5e2ea30534209bea99,80a2138300fc2c1c5101d5bb2252973b,4,a encomenda tem prazo para chegar até 02-01-2018 e não posso avaliar nada pois estão dentro do prazo!
+G069,d8373090432253c7820705d8940ab17f,cfd0882d46442939d8457d3508170953,5,"o produto chegou perfeito, otima qualidade, so que é do menor!"
+G070,ae32b954924a1f7f0228846421a12544,1166f71d15f177ac5da5c3e5ecb906bd,1,recebi o produto avariado (o copo de vidro todo quebrado. Ainda aguardo contato do site para fazer a troca do meu produto
+G071,a01ba53079ff4e09371b2e696041ccd5,06cc5452c0a830d345b93a5385ee310e,5,"Fiquei muito satisfeito com a entrega, e a agilidade"
+G072,417ed14c808f80f32ae9694d3841ae82,79c8c817d8876952db086059ef7f522d,2,"O produto ja passou do prazo, e até agora nao chegou ."
+G073,fd42d8c4319a7ba48242a3844c6f77e7,351a4161d1abb1089cd923ba455f46cb,1,Não recomendo!! Cancelei a compra e a loja não dá retorno. Já extrapolou o tempo. Quero devolver e receber o extorno do valor pago.
+G074,1b0a9f3e943a85b452e1b628170ae368,a7ccc4df2d363b2ba9037d1ef834a250,1,"Comprei o relógio dia 20/02 pensando em dar de presente de aniversário para o dia 11/03, acabou que até hoje não chegou o relógio. Mandei várias reclamações e até hj ngm me retornou TB."
+G075,1036faf18bcd81fdb73ed07619fa0872,4721161c08ff9843f9bada4af997622c,5,Meu filho gosto
+G076,197a3dac9318d6f23a5fb2ad23ea1efd,c23e171590482930d50c033857c85deb,4,"ENTREGA BEM ANTES DO PRAZO, MATERIAL MUITO BOM , UNICA RESALVA É QUE A COR DO PATINS VEIO DIFERENTE, MAS A MINHA ADOROU A COR TBM, SATISFEITA COM O PRODUTO"
+G077,aedd9a70c3cafcfa6493755a2c3ae57a,03772e1a30e1a11c351ff80f0e20263f,3,"Foi entregue dentro do prazo, porém o produto veio com uma parte descosturada"
+G078,d102a45bd5fd38f08ca189898491cfca,64b1521e5b9b804d124fe8a6edce33a7,5,"Produto como anunciado,boa qualidade,bom acabamento.Foi facil a instalação,até o momento a compra foi boa."
+G079,380c5013b8f730f992f4eac1107fd4bc,bcb07b4577d1cb52bafc1b1b0c51c47e,3,A parte da capa onde fica os botões de volume e liga/desliga acionam mais de um botão ao mesmo tempo.
+G080,57dc2855905642b32fe601cb206df7b1,16c52c86f53dc9687fa8523fb92b7121,4,Entrega rapidíssima!!!! O produto vou avaliar ainda.. olhei superficialmente.. parece otimo.. vamos ver quanto instalar!
+G081,5cbadc767f729b9eea2590ccd5c92878,37d69379ae52462d505e0711aed2c296,1,"Não recebi o produto, tentei por várias vezes falar com vcs e não consegui, ninguém me atendeu pra me explicar o motivo de não ter entregue o que comprei!Estou insatisfeita !!"
+G082,4577e72405f5242360b72d6e981ed148,32f0d08563a05bd541da24218934fdab,1,Não entregaram os dois ainda falta um.
+G083,29af416790339ce3b03535645d90e0a4,790c018ecba60024d3684643535f0e69,3,Creio que o atraso ocorreu devido à greve dos correios
+G084,2bf421fd72b329cd9cfc6ca50f607322,d9f134a34fb4b3cfd95550b4785e8d05,4,Chegou no prazo adequado.
+G085,7f7748dea7b59a988fe8f15082ec1a12,0eef7e4ed65516867584806c217bd0f4,4,"Produto bom, chegou no prazo."
+G086,4c3aa7cff3e114947bbfb9b8bdf12e26,19549a52bf4ab2fd2bab7f190e21a4c8,1,"Isso deve ser piada, não recebi o produto e ainda tenho que responder essa avaliação."
+G087,640a24653c5d8d8d61ba054c45d173ae,14ee9fe5d7494810335154bf7a536214,4,"muito o serviço,posso recomendar.."
+G088,c14f5ad0a190c358d0f403bd78d4cc93,fa0d6d911b362948d8f86f9a703c268b,4,"Em relação à compra e entrega foi tudo tranquilo, mas o tapete, mesmo fazendo os ajustes indicados na instrução, não tem um encaixe perfeito."
+G089,38af3151c827312103c69412538600ad,c7cecd72d8b7b272d7373802da9b302e,2,Pois por baratheon é mais rápido. Por exemplo Na compra no baratheon agente compra hoje. Exemplo. Na sexta-feira chega o produto que agente comprou de Essa loja chegou faiz na data que foi co
+G090,50cf6c77e0ef5751aa4193960a1ce51b,adaaf74d10de654fcf12afe727ac8d46,2,A vedação é fraca e vaza. Não recomendo.
+G091,b28a7b00febe6bd205877476a23b1381,b0980803dc397415a4aee2d3a7c2604d,3,"Esse mp3 é um produto chines da pior qualidade que existe áudio péssimo, bateria dura apenas 50min mesmo trocando fone pra um da JBL o áudio ainda é horrível não recomendo ninguém a compra."
+G092,fc7c223b4fd5dd72d7540c74c0b61557,a518b0e2cc4f320f21cf76b615df9869,5,"Chegou certo o produto, no prazo super recomendo é bonito, funcional , prático."
+G093,b9fab1e8c38666f212cf17a95f3bd993,2686d8e26c3f6e55f0b0914311ebc718,2,"Feito contato por email e telefone, já debitado em minha conta o valor, não recebi o produto e nem tive uma definição pois comprei um produto com uma metragem e estava vindo outro com tamanho inferior"
+G094,29e6acb07b6dbed84c95d981d2aaf489,39263e1d21c19dd12321cbdb04b3175c,3,Material fragil e com cheiro ruim
+G095,7e554d44ca556d61ba86d9deab6482c2,2cfc5ee5cb1e43d70d3dd6f28b2b50d9,3,"Poderiam ter a opção de frete por sedex ou transportadora, para agilizar a entrega."
+G096,8088ea7e157b1b07de74d4a31bcc48cc,82e5aab7d622b1d4261097b4299d02b9,4,Gostei muito do atendimento prestado
+G097,e4b574976dab9988dad9a6f4510e1c77,1f039c377ad805f38658f64f2102c992,5,As folhas da planta de ótima qualidade e o caule também perfeito. Excelente produto. Bem embalado e chegou bem antes do prazo. Compra super recomendada!
+G098,8a74b9b05e32005b0a2b54da8cd537c8,044223df7cb37509bfeb2a0df1250ca4,5,Muito bom entrega super rápida
+G099,b1fb1b29686a6ee8505fec6bc6002d64,7b71869b0ed372d90284fcfbfbba82d9,3,O colchão é de ótima qualidade.
+G100,83d1a8ab66183b59bc3a2a36b0e08a7c,c77105bc2b21c4087653efcc5bf74aaf,1,"Comprei a proteina isolada da black skull no site e recebi a proteina concentrada da marca, que é um produto diferente. Proteina isolada não contém carboidratos e a concentrada sim. fui enganado!!"
+G101,b1a7e6bea48ebd760453f2975eb5c5af,06aa0aa8c22027ebb953d501c4238512,4,"Produto um pouco fino, mas o pelo é de qualidade"
+G102,f861b597192487738976ac0515cbd044,4d938cb9756669aa9adb5e4e06db4850,2,"O relógio é simples, está ok. A embalagem veio amassada."
+G103,369c12054baf08c6c1e7ccf1a0fc3988,6e80500cf8aa7894a6e56a436ee785d2,1,Comprei e paguei por dois kits é só recebi 1
+G104,16a4b3ebcc79b6ce7f94f0e36496401d,b9174384bd0bd9634f2de4476da9d1e8,1,"Não recebi o produto, sendo que o valor já foi pago!!! Totalmente insatisfeito."
+G105,39e3220236b9d66fb03ab618ed8e3477,410d704bdcbe2893fd5ad73fe8166f43,2,Ponto negativo foi a venda de produto que não possui em estoque. O que frustra o consumidor.
+G106,ea98b47899516adbcf3bfe4f7e491587,cf650037c918409bca8e5e67ee7dcfbe,1,Propaganda enganosa lá na descrição diz que o relógio é isso e aquilo que é bom e tal mas na verdade não é nada disso além de tudo a cor que eu pedi foi dourado e veio uma cor que não é Dourado.
+G107,7e0f1dbfe47241f795a87b8608543ab1,6768c474e9019cdd1b5f11bb7a126f8f,1,O produto não foi entregue. Nem se quer chegou em casa.
+G108,200dac09a2d04b40d6579bbe1f3d5690,2f7999e73c5e27ffcb9ba5621b9884d0,2,"comprei 2 unidades conforme o pedido, chegou uma unidade a preço de 2 unidades conforme a nota fiscal, ou seja comprei 2 lonas de esteira e recebi só uma no site tava 89,90 cada unidade comprei duas."
+G109,94dee0e6568454039f68cacf30f8254f,484f924a6135837d4195a42442905b8d,5,"MT bom produto, lindo , amei."
+G110,3e5004f4eb688447196965bf24f6619f,c7f56d5704a91333798e6a26628d3666,5,"Recebi o produto antes do prazo combinado, veio incluso uma espátula e um manual de instrução, recomendo essa loja."
+G111,e9d41534bfd2a7d2c64add92b58fce8d,79b7b2178c759fa227cafb377193cd83,2,"Recebi dois carregadores, porem com referencias diferentes. Modelo CDQ-X28 (CORRETO), e o outro que dei de presente e NAO SERVIU."
+G112,d6508abe59ae47f7060fdc59371716fc,b7f45bcd6165e360a95cb43ced5d5ea3,5,Amei e super recomendo
+G113,519081162c997a39b7b47f4a99a01c19,fba245de6698569b717828ad436f6fc9,4,Produto Boa qualidade atendeu minha expectativa . Chegou antes do praso combinado . Eu recomendo
+G114,46d6f9f7a130fea143f7d87d7d47b75d,d7d77e6d58cb59dcc4660ab21874aa3a,5,"Como sou cliente, minha satisfação só aumenta. Grata a toda equipe."
+G115,e19bd6ebd8bf11ac61c40c7916bb1bd7,44d404776504ffd7bb6d7b36723f8295,4,"A toalha q se referem ao piso do banheiro, veio na cor bege e nao8na cor vermelho como está na amostra."
+G116,67928613e3058ebea5adf08c2c3bd794,5c1995c020e0a3b2b23152b3fcfcda76,1,"A RESPONSABILIDADE DE ENTREGA DO PRODUTO É DO VENDEDOR, SE OS CORREIOS ESTÃO COM PROBLEMAS, NÃO É CULPA DO COMPRADOR. MINHA FILHA FICOU SEM PRESENTE DE ANIVERSARIO. NÃO TEM DINHEIRO QUE PAGUE ISSO."
+G117,906a2caf091db99666e7c94094365d68,3b81b7af81e2eeda1442ed880cd1d860,1,"Efetuado a compra dia 16/02 aprovado dia 20/02, emitido a nota 22/02 mto tempo para processo de analise e envio e ate o dia 08/03 não recebi o produto"
+G118,a5c2b3a91987ef38d4cfde957fa54abe,10988ba9421ea800479bf84c9e8ae1a0,4,Bem acabado e tamanho ideal...vale a pena
+G119,40bd566703d449ff8a0bf6736fc0ab5f,cc43a0291c8a1508aa42c1f78ddd204a,4,"Embora tenha demorado a chegar, valeu super a pena! Produto como o anunciado."
+G120,87b7375a51dedb70fe6880d49cc38293,efa54a340757446b16f891404fb529c2,4,TUDO CERTO COMO SEMPRE DAS lannister.COM
+G121,f3bcd26c2131ce36b5a915be722b183f,2107484004fafd3fa95b3ddefb066aed,2,"Comprei duas memoria iguais (KVR16LS11/8), porem foram entregues memorias diferentes (uma delas foi entregue errado (KVR16S11/8)."
+G122,778f61616407dc2cf683ae317411a13c,3be2b03f32e88489f49c64de449e6d98,2,"produto incompleto, qualidade ruim."
+G123,b8024cabec0601e21c93df35acb9e1a9,b02983703060845dbc7fe979ceaf2c3b,1,comprei e nao recebi o produto vou colocar na justiça
+G124,f19a2dbaf07596ee336198c33d3b6d13,ff1f8f328e5a59ac754240b6dd31bcb4,5,Amei....superou minhas expectivas! Produto de qualidade e entrega rápida.
+G125,0ee4eed6279555809f98df5866811ad8,eae7c385faf129f9e3dfa314bda4d979,1,pedi dois pacotes so chegou 1
+G126,7249501f5984ad6861c8b9e062e961d0,6b9f15e7fb964b5c9e93dd511fee8f75,3,Poderia ter chegado antes!!!!
+G127,a1caeb5086bd42eee3f95aa973cfe06c,eb0fec00c8cee7edcc91a031d939ac1a,5,Recebi o produto e gostei da qualidade
+G128,daf95ca03974c37d611d848a99e3e5c7,2cc8baa61075bfd10b12feb5c585349d,5,"Produto de boa qualidade , bem acabado, uma gracinha, chegou super rápido."
+G129,614c979929f4c737a7b5034897a30267,ad380680e87dea0f2abf5cd5bace626c,3,"Não recebi o produto Ainda, mas aguardo receber até sexta feira. A previsão de entrega era dia 20."
+G130,aca647018e99fdeb5b5509a03fe1e8b2,da1bf4bd73b666e0f4173221301aaca3,4,"Não gostei! Já usei esse perfume outras vezes e ele é maravilhoso ótima fixação porém esse que recebi, com uma hora de uso vc já não sente mais nada . Se possível gostaria que fosse feito a troca"
+G131,fb3c1e4f0cd65ddd726f5212a4993e95,b5e095024706f86e26f9ae88b1d81811,4,"Entrega super rápida, produto de boa qualidade."
+G132,7bd67c9f0c746f0a461fe4766d4b96fb,260f6f8e1f649aa1a17a1cbcaffe7726,2,Entrega bastante demorada
+G133,990dfa45a416064a5b1926347326ebe0,a7c0c5a345bb63d37fc8aafab1f86a4d,4,"entregue antes do prazo, sistema de acompanhamento do produto credibiliza a loja."
+G134,96271efbb415da6e095d9d0efef4f36a,cf2bdd96e31b79ed41dba723fb42429a,3,"ME INFORMARAM QUE EU RECEBERIA EM CASA O MATERIAL E NÃO PELO CORREIO, QUANDO EU FIZ A COMPRA , ALEM DISSO A AGENCIA FICA PROXIMA A MINHA RESIDENCIA , ENTAO NÃO CUSTAVA ENTREGAR EM MINHA RESIDENCIA."
+G135,6957c0682302622ce8737c0a33151d4c,0a4c05d2e1ae812a342af2f5c9a34b36,2,"era para ser entregue 4 produtos tres e depois mais um, so foi entregue dois produtos"
+G136,a3119ba4817c4b1cd43ff94481303c96,fbecebecbe32df9dc3411b1e35b5484c,3,"O produto atende à função, porém o cabo é rígido demais. Difícil de enrolar e desenrolar para guardar. Preferiria que fosse mais maleável"
+G137,5f1ad1f41aacfdb6fdc98f8ff5e10bf6,02ac6689fe09c236d7651b93246b6dbe,3,ainda não usei mais recomendo
+G138,b6460c871b6b1b8eca16e23f74276ff1,acf439da18812b2e710a2e7abe7f0ab2,4,Atendimento cumprido.
+G139,3257e4f3c99ea386f27e6ddff9f47f88,c38d4404acc45d16a0efea202c53271d,3,"O tecido é ótimo o cumprimento na altura também a, porem na largura não veio exatamente quatro metros veio bem menos, então deveria ter comprado duas aí sim fica como na foto. Chega bem antes do prazo"
+G140,72687174334049e5f8ad04ba96f2f59e,1ecf4482aed348ce31d720182b3d2164,4,"Chegou no prazo, produto condiz com o que esta no anúncio."
+G141,9980f3a5664ad72cfe3d078359078397,cb599c234fc71be7c137179b6d473a30,1,Não recebi o produto...Não fui orientado....Não me ligaram....Estou muito puto!
+G142,716fa137edff8838adff0d9f70703e41,7a2caaaf6f039835babfdf9aea003412,2,"Estou INSATISFEITO com a compra, poque depois de feito, As lannister, saiu da negociacão,|transferindo tudo p a targaryen, que trazia informacões desencontradas, e não encaminhou a nota fiscal de venda.i"
+G143,4863b6e6dd930c3b47e6bfb6985f41c5,d6e1f6c47ebf654ee806ef2891e6b740,4,"Produto ok, entrega ok"
+G144,ef06946ae3c7c82fe1cc989e89446289,cf93d49a9e8e671eb28c9eab24cf0f39,2,Produto anunciado não condiz com o aparelho
+G145,d6f757d974504e2b2b43543d959d52db,6f2d341a759b59c051aa9fcbaf2dcba1,3,produto correto e no prazo o cd veio solto dentro da embalagem porque o que prende está quebrado não apresenta riscos não tenho video game para testar é um presente entro se necessario troca contato
+G146,4dcde4b93dab1bcae46adc07b9b5d2c7,3fbba2a364f0072dbf76ad244e734258,4,O produto não é tão portátil quanto anunciado.
+G147,b497fd771c09299bb1880b845623b39a,fd2b75f431649ee3de573b444d320f48,1,"BOA TARDE EU NÃO RECEBI O PEDIDO COMPLETO, ENTREGARAM SOMENTE O VARÃO. A CORTINA NÃO FOI ENTREGUE, ESTOU NO AGUARDO DE UMA RESOLUÇÃO ARA ESTE PROBLEMA"
+G148,dcba8aa29924570e35854e34f82caa38,cf14f34423154c055c6677b22cbfbf68,2,Eu comprei 2unidade veio só uma estou aguardando o outro!
+G149,4d0934e7e5c1b499eec8ab45c7ffb60e,ab17008d463dbbcc0fac3c3d8d2931e6,3,Comprei um cesto Joaninha e recebi um de Pintinho....
+G150,17ac943da7d76ecc58b47796178adad2,569749247450c1251fdd11128a1bb2bc,5,entrega da mercadoria antes do prazo
+G151,c7a8f93e1c9d31800961433ceb659337,466fa6875c92ccd8425b0a91a8d1a771,1,Comprei 2 e paguei duas e recebi uma. Já avri Reclamação e nada
+G152,b1ed64adcf4abed6ebbf7de61c8eb4ab,58f5801ecbeec83b70c32e4afdc5582b,5,Super recomendo a loja. Produto entregue muito antes do prazo e de excelente qualidade.
+G153,a2966e2720599edd4ac9d99d72a4f47b,5f61b71c278e0e65231c70f058f4ab00,4,Só chegou o pau de selfie.
+G154,4e76adc4a5ef5f2cd6e0e5cc50113b28,1f5d62970c5b3cfedc1b2a8d15ffe40d,2,"Recomendaria o produto porém o tempo de entrega demorou demais, mesmo estando dentro do prazo."
+G155,5ed0e7f2543faaa9ebc562d5ef02e502,430bd310105f069ac72ef7758f40299b,1,Câmera não funcionou
+G156,3ee6185e2f5131927f4458b739852daf,c5222412ad9d123721c453c7c21a6cfa,3,Demorou muito para chegar
+G157,405fc62d193015989706c24f95eb0329,4ab7de78c72f664992f3171d28974c87,2,Produto é MENOR do que o anúncio diz. E veio sem a Nota Fiscal. E o link que recebi por e-mail para acessar a Nota Fiscal não está funcionando. Favor verificar. Aguardo.
+G158,beaf33e3e25cf2dd78e99a6fc031a6ab,5851a5db9fdbecd7306fcb30f6a8e2d2,2,"Ate o momento não recebi a minha compra, e esta constando no rastreamento que foi entregue"
+G159,6ed25b76ef4db72e7e854f158b7f25b8,39eb0a2c097fa14b378cc8a8005f4121,4,"Só acho o frete aqui pra minha cidade caro, algumas coisas desisto de comprar por causa do valor do frete. Mas fora isso tudo beleza"
+G160,fee341a4ea57320dbff7c3bd20038d44,cc8f800afe212c5d7220f86d3a8468d1,5,"Total sinceridade com o cliente, entrega muito rápida totalmente satisfeita com produto"
+G161,7f4e2e6eb987fc479a7de031c7b8e21a,b136c0fffe2bc0642080f1547c1f569b,5,PRODUTO CHEGOU CORRETAMENTE DENTRO DO PRAZO . UM PONTO NEGATIVO É UM PRAZO PARA ENTREGA BEM ELEVADO .
+G162,0f4085fc3ef97d017d2f1eeda3950714,fa5927f07ada4f44128f6d9fab3b70f6,3,"Poderia ser 5 estrelas, mas pelo fato do vidro do piano estar rachado, não vou poder dar as 5 estrelas."
+G163,d13c64c846b26bae36915e944281686a,bbdb54ce076f1e0d4e8eb55711b40d4e,4,Pantufa simples e muito confortável. Entrega rápida e eficiente.
+G164,d6371e6f7abd7c2c1c6cacfc606802cc,40001f4b6e1a35f0b99fc4f44078ab27,3,Estou tentando ver se os parceiros da stark continuem com seus compromissos aos seus clientes. E pontualidade
+G165,959e00cbe367fbe981a7363ac0c62f9b,827d13f1e8fe2d4c2b3becfa2b0035ca,5,Tudo certo e dentro do prazo.
+G166,4db0484f5ee6730dd03f25db422c3345,b65a9099b9f6617410e0f5fb0b9e1fdc,2,"Veio com defeito, assim que liguei ela, ela estourou. Solicito a troca do produto"
+G167,b9eb38450a204e9ce7e0694247494e6b,942667533dd65545cd5c94bf8890170b,5,"Pelo preço, valeu muito a pena são lindas e bem eespaçosas."
+G168,82d4bc7c836b9941255450a85b6356f6,5487a8ac1699754d975f853ce8bb9321,3,Um pézinho maior que o outros
+G169,89a683db127734a980fd88dc060afd8a,b8b6924f004e191923963e8ab1655ed9,2,Aguardando posição sobre o produto
+G170,38b68a768c198f1b1f0a0a4a6444aef5,57e19d283d4caf90389cbfe35f490f06,3,Algumas funções do controle não funciona ; porém as funções básicas está ok
+G171,1d8072168c9820d0ef1298c642fc1f40,a4c0c3903b0f57f415ce5dc9d3bae784,2,Faltou um pacote de sacos de lixo
+G172,06cf157639219745df82b72bd4b703df,f80549a97eb203e1566e026ab66f045b,1,"Paguei um frete de 388,00 e tive que retirar o produto nos correios, sendo submetida a uma fila enorme, o que ocasional uma perda de tempo."
+G173,6bccb495126cf04a3464e3b33de2990e,af42887f85d980291a066176c4d13709,2,Produto foi entregue com muita demora
+G174,4f2335919545ac622d08b13400df8703,7e6ae85d806fd4563f0e68f5521321cc,2,"Chegou o kit da colcha, porém não chegou a manta Rosa, e no app esta com entregue."
+G175,0da9527ded54cfe124289bb9d5cd1cf0,88898c8b7a5b7d3e2291e990f93d274a,2,Peças metálicas e alguns parafuso com ferrugem.
+G176,40361c4bb247dc787188ef9d37b3bd65,a3bbe9aebc3d205399f59fadf59e9d42,5,Mochila ótima e lancheira também!!! Entrega antes do prazo...
+G177,696d188c4b63c89ddf651e74f1399fb1,0cc217cdcf3d4c3aec8a027679e21f89,2,os parceiros da lannister são ótimos mas ainda estou esperando o produto que comprei
+G178,755215ffa9405a185237cc7dce6bab49,4e426aca1d549d77439cb4eb115a5d37,3,Arranhador veio com lascas na base por conta de embalagem inadequada. Sugere-se que os próximos sejam enviados em caixa - não apenas embalados em papel.
+G179,0bf1c76bd9c7b579f305eb85bf683bc4,d9051ab12fdf0e2a51a56872d74e91d2,1,Não veio o produto certo
+G180,47f26298d20eb7b9d1d63507ce795dde,a3b12c57a19ac7a13e56c2387b30054e,1,prefiro não opinar
+G181,cf06fb4b5903b5e3ddc76f482d626e51,fe25e6ae3200a0fd420ba45277d19fc5,1,"Foi informado que seria enviado um produto bivolt e enviaram um produto 127v, resultando mais tempo sem cafeteira, reclamação realizada ao site e já se foram 48 horas e nenhum contato realizado."
+G182,fc6bfdf4a6a13d69fbb8913a1ec268d9,e45f581751e44a52f09b4c1746612e54,2,"De acordo com a especificação descrita no produto, o modelo do computador para qual comprei a fonte não está aceitando carregar com essa a fonte comprada"
+G183,aac3333ae07a8fd92c6bd242fbc5be14,c7c28a159a907d1d0ff580856daffa72,2,O CORREIO ME ENTREGOU SOMENTE UMA CORTINA SENDO QUE NA NOTA FISCAL CONSTAM DUAS E PEDI DUAS.
+G184,164e6531fa6a7029af0e0cd12b49b2a1,974489a317d3b3f2e471a3e8d05ebeb1,3,"É bm mas o material é pouco fraco, precisa melhorar"
+G185,df8634ad73539c354d19fee254e0eb57,342505ef4323f0572eda009be6080f6c,1,"Já mandei 3 e-mail, pois no status do meu pedido, consta a informação de que não tem o produto em estoque, mas no mesmo dia, recebo e-mails de oferta, onde consta o produto que comprei,"
+G186,795ffd774dbcbb981bf85766f8e2a953,a3a97bc6e236d5351537c8f466c34dad,3,O produto é bom só que o valor do frete é muito caro não recomendo.
+G187,118437bada20a515e584d2f93c179545,9e12d0b2e230c41566ece579e1e88bbe,5,excelente custo beneficio
+G188,7750c5e4bc6b1b025f880a293a18cce5,2b0beeb414c4c929b10570f53441db17,3,Eu comprei uma capa pra guitarra e veio errado ela veio pequena demais a guitarra nem cabia
+G189,fba10cb26df7b1292e3efe486b6d0907,38df543e1956e91a0b4ee89c4a49dbf3,4,"O produto solicitado foi entregue com algum atraso mas em perfeito estado,Muito Obrigado."
+G190,25cdb6ba16441e38384da3657ac66120,ea5d5b94cb65b3b50f1eaf792db2b895,3,"O produto que chegou é muito bom não vou trocar ,mas não foi o que eu escolhi a cor veio errada e com algumas partes estão diferentes da descrição."
+G191,963c6b2026c77c91a718e8a3aa6e30c7,9c3d7e9c15eacd69760b2e438fd5e3bb,2,Fiz um pedido de três relógios e só chegaram dois. Estou aguardando chegar o outro e até agora nada. Já faz três dias que recebi os dois relógios.
+G192,f3401a1de0c152923ba58cf7b7d2b84a,a848ecb46fe108b35dd5bd7bf4fdddca,2,A capa protetora não é exatamente o que eu esperava deixa a desejar no tipo material e na qualidade.
+G193,bcddfa0f7d2e54cfc74bae4f01b84d92,25e8ea4e93396b6fa0d3dd708e76c1bd,5,Aprovada
+G194,9b2c9a4409dab71e20176e886fcd5dfa,dcb69a3c1f97a14c7189a209c641f1ca,2,"Pedi dois produtos mais Recebi uma caixa apenas com um, logo em seguida recebi um e-mail da lannister perguntando se eu recebi os dois produtos."
+G195,19b1f0851de410693fed0e1b4d95a58c,dafafa54ad54ef9c116bd8c6cca4b7ed,5,"Recomendo, inclusive entregue antes do prazo previsto."
+G196,3f4836ae3b475bb81d38f935aad817ef,b2b4949fa00ed92fd42edc6d301163d9,5,"SERVIÇO EXCELENTE, MERCADORIA ENTREGUE ANTES DO PRAZO INFORMADO"
+G197,97a6d7ebc8a6fe98d1623fa64253a7be,441972a5bbd51a10459a487402076942,5,"super recomendo, entrega no prazo!"
+G198,8563074e7bd612e130d6848ea3af772d,3c6994e721ea58dd051b6e7d3a4796dc,5,Não recebi nenhum
+G199,8d5d5ec44e8fe084def83570676a47e1,c981128521975354988b8e88309a898d,5,Entrega rápida e produto perfeito
+G200,27b0ed752a9cc9118659134efccdca86,1cc2d3a2d530f28cabf220dad2b59b55,4,chegou direitinho
+G201,88a55c929e81e5460731442fddceaacb,7585d4e21b02da91dd6b9dae232f96f8,3,"Não sei o que aconteceu mais o meu produto foi desenvolvido ao contrário,"
+G202,84cb342d5442ec292b9b559859ced87b,10d96958b92a4df731c5f0d7e8694f4e,3,AINDA NÃO RECEBI O MEU PEDIDO.
+G203,a8aaa7883888226afe1db1f35612aa0d,16fac761b4906243ece450c7a9179329,4,"Mesmo vindo na voltagem diferente da que eu pedi ,eu aida recomendo o site"
+G204,9698ab9b3ee62a3bf54a88e12ff5dfff,f054123dcc8f4f62b48652df19a22661,3,A entrega poderia ser mais rápida!
+G205,046aec1ab10e6fee82498a29969261a0,613dd9eddeb3acc5e976fbd3066be456,4,O produto chegou em ótimas condições e bem antes do prazo de entrega.
+G206,e122d601250bd4e2ba54ad453ea9fa5c,ff25dab86f7fc3fab00de25bf1489a30,2,"O produto chegou, no entanto não cobriu a tela toda como descrito e não é de gel, é película de vidro comum"
+G207,e539a78dce12a7349447874a072a7c6b,3b54c56c2a6be822cfdd5a7eff24add0,1,"Eu, já paguei e até o momento não recebi o produto, estou aguardando, disseram que chegaria até 26/04/18 , mas até o momento nada da entrega."
+G208,3db041dd46e9935752c691a2093799c2,51eaae3287e04efba45a51f52098fc88,1,Produto não recomendo não ler em nenhum dispositivo
+G209,0442d5fdfa6ef5ccd29e32638830efce,cf5f5f819b2d893f6b4545d61025dcf4,5,Adorei o teclado.
+G210,de9041584fadb543a39ad858803868d2,498964d3c3eddfc0d670e6be2ea2d5b2,3,so faltou entregar mais rapido
+G211,bf0b4ac2447b3adb2e0af8c53a01e148,bc0ce3adf08cf5e5c91ca98d2fa6f27d,3,"Boa tarde, sempre gostei de comprar pelo portal lannister,mais ultimamente tenho tido problemas com a entrega. (area de risco) .por isso peço que reveja na página a opção de retirada na loja."
+G212,1ffb32409730d69bbb5e43854e520701,7fb9a8071a075a78c82420971e66dd77,2,"Não é um produto que chega e é passível de instalação. Sem manual, é necessário entrar em contato com a empreaa fabricante. Um produto caro que exige plataforma Windows para instalação e configuração."
+G213,d1ff879c85d6673fe1e04c4e8256c998,2884411103e7fe124af5df8b85a8fb7b,3,Não usei está embalado quando precisar doi minha satisfação
+G214,20d28f9652188fd7f6b90922548a4160,c9b2447b34e74d4e83900fb91dec3e56,5,Muito. Bom
+G215,6a0aefb12d8dde4f7c09566db0fbfc53,2804400973412de4efdaf1399281199c,4,Muito satisfeita com a compra.
+G216,3e90497651d17074e61895e395d581eb,2dfa14496bfd2a02b3ab479a58171bc6,2,frete muito alto.
+G217,65e73d3aa6e7a80d70b886bc45f0952c,a85429530fd3281381e34d128b357d91,5,Meu neto adorou!
+G218,c64ed93d3788ca0a594c2ae8456ad658,4c761041674866c683398d2c3d0d9163,4,Achei só muito demorado o prazo para a entrega.
+G219,34060cb1d6c26cde891ee7c8c4bd2930,9aa0695aafd26e856023e7dc62d3d878,5,Loja excelente. Cumpre o que anuncia e a promessa contida no anúncio.
+G220,479db2b419cde735a6074bfc8207ddcd,df0558355915aa6d41e3eb7067957978,4,"O produtor chegou dentro do último prazo que falaram. Pq na primeira página o prazo era de 12 dias, depois aumentou para 1 mes, mas chegou. E o produto é bom, deu super certo na nossa Tv."
+G221,9bf366bcf9b879a52e78008e7874e2d1,aafd24ce72f716e644f9d4012e1afcda,5,Muito.rop
+G222,6b4c6d0141e08ab4ee0aefc8409803e5,b140cbedf84255e2eba118dff4f5cb6c,3,Não recomendo porque recebi o produto incorreto.
+G223,f5b32f6678da018607d25d5d7505aa4e,5d508403951477c6ca3f8fb41f351658,4,"Panela boa e resistente, ajuda MUITO!"
+G224,20530ba47e52baa78a0b46b7c9f74bbc,d346370ba346967892986f57438f7765,2,"para mim essa faixa nao funcionou, mais cada caso e um caso"
+G225,9b967813ba8d5232a8fc3775b5568eb8,e40d016b1ae85a70208463f0969fcfce,2,Estou esperando o pedido
+G226,b9bee04e53b712a285795bfcec346c0c,cf101c3abd3c061ca9f78c1bbb1125af,3,"A loja sim , mais o site me deixou a desejar pois fiz essa compra com vale e não me enviaram um item alegando que não foi autorizado o pagamento se foi confirmado no dia da compra"
+G227,36e21cd6d8131bdd6fb5c86f0ce9c9c1,08fb515ec54c34ca06b1e2268acc429c,3,"Os produtos foram entregues no prazo, porém dois produtos tiveram a cor e o modelo alterados!"
+G228,c440ab7b9d0ead9d63b5aba604409477,0af3a5d2e6e65075837ef5ceb5c167ab,5,Entregue exatamente produto que eu esperava.
+G229,c9fe5fda6e756c2865f11f433017273c,64b30be5c86952908e3b2ab4de5c7770,1,Encomendei um modelo de capa e me entregaram outro. Totalmente insatisfeita. Isso é a primeira vez que acontece com uma compra minha.
+G230,10c0bf7adf8c102fb2febdc934904e32,e8bffd810656b2ec376f2e724ed5d0d7,3,Tira a entrega pelo correio
+G231,991a0b2daf999b53dbcbb2da50e81c25,0eb7be028002e3ece83dc67396d6568b,2,"O jogo só é bonitinho, pois é extremamente fino e frágil. A entrega foi antes do prazo."
+G232,d713665425af0b92768a22b383c0e4e8,125380a45478fae5bd5466553f2ed928,3,"Chegou bem rápido e parece ser bom, só vou descobrir com o uso, a capa para o sofá de 3 lugares veio um pouco menor a largura veio 1,46, mas a de 2 lugares veio no tamanho certo."
+G233,f6a8c080a1d45f0ab6397feafeab422c,e1716f3b568b31f585d5c531d45612d7,3,Pedi duas prateleiras e veio somente uma sem aviso prévio
+G234,8d9d934ac0a89dd944ace6be82b41142,53036d8a739a905871d7f0096fa3b339,1,Comprei 2 unidades e chegou só uma
+G235,efd40569b71600fdb9dc77ec5c6b7e1b,bc4b1551a6fb2346fc87b5879402dbf2,2,produto e baixa qualidade pelo preço. Não gostei.
+G236,91a6b372f3de95a3d765b016fe876fc7,eca3005a4f60ceb77b67a30b74095ddf,5,Muito bom produto
+G237,2371cd6facb38ce7cdae5dc687401ba4,dab8a6c6bd6ec448df5b3a6b6cb887bc,3,"Não sei ainda , pós o que eu comprei não chegou"
+G238,1370105abdef7c312fde0d86990c4e90,4934625cf407c998d90cf5a58075e0f1,5,Amei!! O perfume é maravilhoso!! Tudo o que eu sempre quis!! Super r
+G239,0a5a1f83598223df1100567cd999b535,3b3fa4755e2966230cf01bf2899a7b5f,5,Mto pratico e mto eficiente
+G240,2945d6770f454b3ab2a1b249413f879f,c4f3f1fa5eadd2ee5d28be9bb77361bf,5,"Melhor suporte nessa faixa de preço. É a segunda vez que compro, as duas vezes usei com tvs de 43"". Ele deixa pouco espaço na parte traseira, então é bom ver o posicionamento das entradas da tv."
+G241,1ca1019409a1861dd9e0b15f0c9a5622,18279a656ac308b75f99ed16ed347192,5,Estou satisfeito
+G242,94213f1db5417565148101250153734a,4b42a606687e048a7a33669b84bf8690,2,"Gostei muito da pontualidade, da mercadoria,mas infelizmente o produto nao foi entregue todo. Pedi 2 kits e me enviaram só um. Como faço pra receber o restante?"
+G243,e27308466c302cdb718c9586141541b6,3c39f4ac4b4520bfaaba2cee448cd823,1,NUNCA aconteceu isso antes com relação às minhas compras no e-commerce das Lojas lannister. NUNCA. Ainda não recebi o produto e nem sei se vou receber. Peço entrarem em contato comigo urgente.
+G244,5b7ac0ff000ad5b01af8f7a1a66f02bd,c0ed1e5690afee470f14fca47046cffe,5,nunca tive problema
+G245,a0e944a67a19ea4e58cf80e79c82c89e,d233630561c3babf58e2ca3c0ca52bd2,1,"Desde ontem tentei enviar várias mensagens, sem sucesso. O pedido veio incompleto. Pedi 2 boias para filtro de gravidade,não foram entregues. 2 kits de 3 velas de tripla ação. Veio 1 kit apenas. ????"
+G246,53d72db9267a9aad45908c26d986a790,f70f315a383a7e0d4f253107b5b34173,2,"no site comprei o produto o original embalado, inclusive com o preço maior, porem recebi o produto desembalado, enrolado em plastico bolha muito diferente do original, diferente do que comprei.."
+G247,ede1c3b7598ed306c515f9819a6393fb,ab236b4e1403ed5ace5c91a4d05b81a8,5,PRODUTO E ENTREGA EXELENTE
+G248,1227d6b51e8b2fd6b01cd3d994d0cef6,0f0da37d4b99bfd602829ae5992b2d57,2,"pedi o cancelamento da compra devido ao prazo de entrega, assim que foi feita. recebi o produto e está aqui ´rpno para devolvr. Como devolver?"
+G249,b2462544fca6ce49ccf621676fe12cfd,1c859fbb6e7f238f3f6134628b845f3a,4,A loja e boa porei de todos os produtos que eu comprei só esse deu errado
+G250,c622383e20878743eb58bc1ed4444657,343076b69aa1f03ee4beb49cf6baee58,4,Lindo o kit. Entrega rápida. RECOMENDO
+G251,e6be7650a29822511924a64eecc647c7,2a61996db3b1837c8e035e373eeced0e,2,O produto não funciona conforme o esperado. como áudio entre outros.
+G252,2f80004ea0f9085b1b8ddaaebe6e6a1b,6f3b34d75d61bdd8ef79ba590a88ba5b,4,Foi entregue corretamente
+G253,bd56ed5264bd22aa8811304835b8aaba,78462cf509142618ab317d7106e8919d,3,"Muito bonito e com ótimo custo benefício, mas veio com algumas costuras soltas"
+G254,d9fbcd4580292ce5cddfe9abd4a4e38f,22d03f81f36cfd05e90af56d5dc63e74,4,compra perfeita e entrega ok
+G255,34c90451496537cf04f5f6cb7c1f9335,f9b79ac2c05f12bab607bfe35b4a2ad2,1,O produto veio sem nenhum lugar para pôr o sinto de segurança. Na hora da compra não dizia que viria fechado e o consumidor deveria abrir em casa (perigando danificar o produto).
+G256,9031bf86b5b8d6746354519802cf9b23,98798990f1f8bbef14ca35de7a895ee2,5,"Chegou Dentro do Prazo, não veio Amassada. Ainda Não testei mas parece ser muito boa"
+G257,3e1d4e7f3a4e13e93f0c0ab416a25ab5,d200a7526c6d29e8c2742a0bff8cff14,1,"O produto novo foi entregue,e recebi um vale no valor e efetuei compra de outros produtos do baratheon."
+G258,fbd9cc5a7770c84243e9701ac9ac2309,75f1f96566e2fbecc5fe22dd4f16f8e8,2,Demorando muito a entrega
+G259,57d45178e917aaff0a78ddb9d9162ea1,08cd96d5c09ad751d2c4ffd556f96c31,4,"O produto chegou em ótimo estado, bem embalado e antes do prazo"
+G260,b49015b2d110160072f3d8739d02452f,507ade1b30ebcd50657684efabcd135f,3,"Olha , gostei muito das coisas que tem na loja. Pena que a lixeira não foi como eu esperava. Mas é bonita então dei de presente para minha irmã que se mudou agora é"
+G261,0d93b9ba4b60496470ae0f79c1bd4c0b,1ae8a88bf94d02224f932e18297baa64,2,Aguardando o recebimento do produto. Foi entregue parcialmente restando alguns itens.
+G262,6ad80e6a231d76acbf99496e56e10ea9,6ec704c9a120baaa6b3e162255ec684b,1,INFORMO QUE NÃO RECEBI MEU PRODUTO E ESTOU MUITO INSATISFEITA
+G263,c33634ab39764d4bb034c93129ec7bad,0855f6a946e8c4bef27d0ac24e524554,1,Fiz uma compra no mês de Fevereiro de 2018. o prazo informado no site era que a entrega ocorreria até 22/03/2018. Até hoje o produto não chegou na agência do correio. Como devo proceder?
+G264,79827eb040b1b36623d82e7f0ea06200,527676fa1c791f44e2eef1579abf401e,1,"nao recebi Cesta decorativa com trio de bolas qto aos ESPELHOS DECORATIVOS,O PRODUTO NAO É ESPELHO E SIM UM PRODUTO PLASTIFICADO,PROPAGANDA ENGANOSA,QUERIA MEU DINHEIRO DE VOLTA!"
+G265,65fdf805ab0f482008c713eeae6a065f,0ac320cb8bc861f5745b6406074d960a,3,A caixa danificada colada com fita a apresentação do produto não ficou boa
+G266,915ffc387c38352abf67372fa1db8a4b,0d4705a6e6fc84a31808604039a41807,2,"Recebi o produto errado em minha casa. Já entrei em contato com a baratheon para fazer a troca do produto, a qual falou que em 48h a loja entraria em contato e amanhã vence as 48h"
+G267,fb38172db998a409dd2766729c07d65a,115b0af09e238258e470c0ca6350fb3b,4,Chegou perfeita e antes do prazo..parabens a americana e parceirasss
+G268,b0aaa8480b0db09f5f214472983f5839,d6e8c00fe3761c680d73781f517b7e63,4,"SIM REFERENTE AOS CELULARES E A CAPA EM COURO ATENDEU MINHAS EXPECTATIVAS, MAS A PELÍCULA VEIO ERRADA MEU LG É O K10 PRO TELA 5,7MM, A PELÍCULA VEIO PRO K10 NOVO 5,3MM"
+G269,397f27a0d2936d02d3447864e0398414,8f15948ef0bdb4709a5801084a564c56,3,"ótima compra mas o frete nao compensa,pesa no orçamento. devia ter frete grates"
+G270,0a7a21ecaa58c88d57b808539634a444,72add4bd00723dddd208bfd31cdfe97b,2,faltando o meu produto é um guarda roupa e veio faltando o fundo de uma gaveta.
+G271,7a8060864dd4497725b1255500ddad3a,5cf4f1db71ef2896c0c286637f7dffd1,1,"na hota da ocmpra estava escrito que era 30 caixas por 9,90 e só veio 1 e ainda me cobra o frete do dobro do produto quero devolver."
+G272,82613c31f0fe1bab2faa8f2895f80417,590ab3344f70c64950c4108f56f56280,4,"demorou um pouco demais a entrega, já estava apreensiva pq o prazo estava esgotando, no mais adorei o produto"
+G273,ad7894f46785266b595dd4954be3e5a8,9a2f7e3d9d90fc6b50f6f562541af986,4,"HOUVE UM POUCO DE DEMORA, MAS DEU TUDO CERTO, OBRIGADO!"
+G274,a6cdc835a590838e7b8c058a75509785,99690636b272c74b153a637f6f56dbab,4,A entrega foi super rápida
+G275,1d640ca8a896155ae11661908085910e,704be8bf8fd6f9246d75c2e09734cdf7,3,ao mantem a temperatura
+G276,13f3dd5a01c28001ea7cfa63a8ce33cb,2e714c63b48a7f01b1bcd40c2621b813,1,"Me senti lesada , o produto vendido é réplica e das piores. Estou aguardando para mandar produto de volta."
+G277,7dc116ac2efa5620c4b8cca7093b3e11,2ca9036cf880a76f0a41894ede902e55,4,"Mas chegou dentro do prazo que foi dado, foi entregue na casa da minha mãe então ainda não vi se o produto veio certo só irei ver no fim do mês mas segundo ela está certo, to torcendo pra que esteja!!"
+G278,3901afeb6db5c3cab7fbbca6a78bcba6,a9f74494ac9e8a4bf8aa69188be50c97,3,Comprei dois produtos iguais e acabei recebendo só um. O que devo fazer ?
+G279,e964c3180d2b3ed6fb1ecca6bef96eb9,f354616598afd38e38fd8535d22a79f6,4,Outro produto deveria vir junto ou pelo menos na mesma época
+G280,221894cf48eac99ea8e784c52e9be004,5c37d6b170816f736bfa468714b2b41d,5,Adorei o cobertor. Muito confortável e bom custo benefício.
+G281,bed8abae57e520601dd6b1b68415e415,34b08d44616ad558fbb0cc8e0f7226c5,1,"produto nao é o q eu queria, nao tem selo do imetro e nao é original, nao gostei mesmo, arrependido"
+G282,37118feb86cd24f1c9eba1401422c646,2c0a28ce4971f66f2def8542ef0b6c18,4,"Comprei dois itens semelhantes (cartuchos de tinta) e a confirmação foi que receberia os dois pela targaryen. Pois bem, um veio de Maringá-PR da USE Toner e o outro, de São José dos Campos-SP da Tonerbrás"
+G283,92734a9376f31de60865fc4764877592,882634702ad671a4a28319adef8f058b,5,"prazo de entrega super rápido. O produto corresponde com o que vi anunciado. O produto foi entregue bem antes do prazo prometido para entrega, apenas 2 dias entre a compra e a entrega.."
+G284,2b37219af6a7f9779a12e3b5602655ce,664141bb6dcd20117425954f2bae35ca,2,"óculos lindo, chegou em perfeito estado. Mas não foi entregue dentro do prazo."
+G285,598c90923dc623eb685f9fdc548e29ec,2bc1eac46ee8d6fad3f7369668f1bdf0,3,A mercadoria foi roubada nos correios. Estou aguardando reposição.
+G286,4bc631e185dc89a59d3c45c4603bea48,b1dcafc7eaf9eea48e000a122aa70a3b,5,Adorei comprar com essa loja chegou uma semana antes do prazo eu recomendo
+G287,e836b7795df0b5e89a279d7e49f6024e,cba3ba41fc11892527457b4be8d57308,3,Foi entregue apenas o calar em 02/07/2017. Não recebi a pulseira até esta data.
+G288,0dcffe71f4f2cf8dbf17b622bfaf4943,cad4f1f1630718b17426b3f335d0404e,3,"Houve uma tentativa de entrega fora do horário comercial, não havia mais ninguém no local para receber. O novo prazo dado é hoje e o produto não foi entregue até as 13:00. Minha opinião pode mudar."
+G289,7c7b4242a6578c4ee68fae9219d2f0f8,9ffbf165bfd976933256254ac8d7bb36,2,O produto parece ser outro pela foto
+G290,29f4eb33a5676e9e991222a36d100994,c37e2b2752a33b18419055e591329f5b,3,"Lojista enviou o produto na própria embalagem, virada do avesso - apresentação muito grosseira. Eu ia dar de presente e... não tive como fazê-lo! Tampa levemente amassada."
+G291,fac6571201b18fdf3b22db06450a8f7a,4d4ca4a2ebb64c45176252833b2131a9,1,nao recebi minha compra
+G292,c7781fbecabb290532e1a9b8f787e6d3,0933fe2645eef2cb8ca4aeadb9d3834b,1,Adorava comprar neste site!!$
+G293,96140de7242d61a282720c139251d34b,2446a642fca6873ebfd22332c6657732,1,"So foi 2 intem luva e toca. Falta colete tático e não tem código pra acompanha o intem, so informa que produto foi entregue."
+G294,effa130e19bd7cf1cf15aea694e58789,7931c99744c2989d6f5218d38f439804,4,Adorei surpe indico.
+G295,3839cf0f47f78196934a5d430ed481c5,ed4ccc558360a6e5cd53d123b4d4b7eb,3,"A entrega chegou dentro do prazo contudo com uma certa demora, pois quando a entrega era feita pela a loja Americana o produto chegava bem antes da data prevista, acredito que da forma que esta o site"
+G296,b1d276ffa57b8634d4c7cb4c36142773,393f9b061ec569fc6025870b559afdb0,5,Chegou dentro do prazo de entrega e eu adorei o produto.
+G297,07727dcfebd3c66724a083a5921b6e7f,089692eb75f455bcb86e1a21ace6abad,1,"Fiz a compra de 02 bases e até o momento recebi somente 01. Acredito que se os produtos vem do mesmo local e a compra foi feita junta, a entrega também será realizada junta. Estou aguardando o contato"
+G298,04746e072bd84ec0a998a996edbc47cf,c3596ec59d5f965ff86933aed7821721,4,produto entregue o que é anunciado e dentro do prazo.
+G299,4fb086c542bb7e4ec510a3463c1657b7,8c78d01de3a9009e23d6877a7cc9be20,3,"Ainda faltam me entrega um produto ,quando chega eu avilo melhor ."
+G300,478d36a00f43db08149be2a4f6590ddf,a05efb55dba0d8c05abd335fa7ea3e8d,4,ACHO QUE A DEMORA FOI A GREVE DOS CORREIOS
+G301,4260ca0ec1ab646109fe1a1e879a35b6,8f0ef9fa114bf453c16ffc0350da8581,4,Chegou no prazo e conforme anunciado!
+G302,b0d9f9fc750e2415e787cf439eaa4a4d,c8213e60d923c834447d410caab1898d,3,Ótimo produto entregue no prazo
+G303,345b0728ff72c1ccecbbf16f8df592b9,4ff9dbb3b682b9c1a8f93e22dce70106,5,"O vendedor compre com o que diz no site, o produto chegou dentro do prazo e e de ótima qualidade."
+G304,fae53dcc6bb8e4f2c3106be4be58f59b,4b8343f1c0a8eaec620be378f9a580c0,2,Qualidade abaixo do esperado!
+G305,dfe24a6167ea9ecd3ab623ac6ca76add,82f71912ce7c7eab50c463a9bc595af6,1,A Loja não se responsabiliza pela transferência da compra. Não vale a pena.
+G306,13ed63af43bdec2de422fa2ddd497185,eba24b2dcc75d6fb248e917715a425d5,2,"Preciso devolver o extensor, porque não coube para fazer o encaixe no meu portão... eu havia comprado no mesmo site e tomei o cuidado de pegar no mesmo modelo, mas era totalmente diferente. o que faço"
+G307,d3ab3abdad3c74e96299296cfd59b003,731fce79a6dfc4251b9ee57dc2f6b239,2,Estou satisfeito com o processo de compra mas não com o produto. O fone de ouvido é de má qualidade e o produto tem um manual de instruções muito ruim.
+G308,f774cb6dcf0a189de2c8935a9999e86f,b4cc5642e907efdd3c80a2343604b6d5,1,Comprei há maia de 20 dias e não recebi produto e tão pouco me deram alguma satisfação. Já reclamei com as lojas lannister mas até agora ninguém me deu uma posição. UM ABSURDOOO!!!
+G309,34b882ab5dcb12d49e4357387fa7bc71,28f4aecc81f76b7e6055d4c9e6b7e9e4,1,"Consta que meu pedido foi entregue dia 20/12, e não foi, gostaria de saber o que vocês vão fazer agora. No aguardo"
+G310,39ea9e7ea4a606b0d7b32525bc323fb7,6514f4ab77bfe2791416987c6c136b84,4,Só não vou pedir pra trocar porque eu vo ter o trabalho de ir no correio! O produto veio com uma estampa de caveira mexicana que não constava na foto eu queria sem essa estampa mais infelizmente .
+G311,c4b0f1011e3518a7d08dff6bb292a6dc,294b367987f073eb316ecef17f1078a0,1,JÁ ESCREVI EM OUTRO LINK QUE NÃO RECEBI OS ADESIVOS! E VOCÊS ENVIARAM EMAIL FALANDO QUE ME FARIAM O ESTORNO DO VALOR.
+G312,fd616643ecefb4c99076950d81a115c9,ba775766c1b51d74ebb0fffa075800e9,2,So não me avisarão que veria pelo correios.
+G313,fa9a905d9fc5dce711c00437dc218fac,edf0616bd376b3416b676c10dffad049,1,Até agora esperando chegar e nada solicito um esclarecimento e resolução o prazo de entrega expirou preciso do produto urgente
+G314,da47f48144063b0e3f650b52d75719cf,ea2807ad7bffe18961ac7306291d2392,5,Recebi o produto no prazo. Fiquei muito satisfeito.
+G315,84d7ae0916a62ba0ece6c859d0db4040,6cdb9b31878fbe99cbad7cde30306101,5,Acredito q seja bom . gosto muito de genacol . já tomava os comprimidos
+G316,65766653cc8e1c576ce9467c3c01c38f,f2a634fd6829278af09d901f172f769f,3,Não gostei do material nem do acabamento.
+G317,46cfc9f9acd1baf52fee36a55b9851da,5bdc8e61065c6a340cb4a89376bdac89,4,Chegou corretamente mas atrasou. O produto é muito bom.
+G318,5cbb7f4bb47598436be3f643c03f3119,aae4a80d679f211688ed391ae747100f,5,"MUITO BOM, FOI ENTREGUE ANTES DO PRAZO PREVISTO. ADOREI O PRODUTO."
+G319,7fb2c642dd46a5e1dd22761b710ec7be,b25816accd207ba3b12d0f4f5ab66793,3,"Pedi na cor Bege e veio marrom, mas tudo bem, estamos contentes mesmo assim, porém, na proxima eu devolvo."
+G320,9c4b88d123dda47a6374960bbe488801,9b2219c364534d3bc6d3e82b1db3c37d,3,o unico prolema q o produto não veio com manual de instruções
+G321,7932aea471c08792aec0fed064004b1a,cb5ece4890234f69f2371e3179e42f73,3,Comprei o produto porem ouve uma devolução pois não era o que eu queria. Ai solicitei o cancelamento da compra.
+G322,a2d19e7c34b8c7ada083546759f00d51,460b00ca293dcd679c0c580ec1982f64,4,recebi antes do prazo e em ótimas condições
+G323,e782b0fcb31134326818ec162535e15e,01946da9e2db8bab61d79296c037ee1f,5,Produto atendido conforme divulgado.
+G324,9ad64902b6c9bfad48bbe4d17e4dcb4b,ecdc847ed73d804147eb009dec3a0a0c,4,"Entrega super rápida, parabéns!"
+G325,e0e2ed672de530961e336356365ec36d,a434358927e93bb6e639e7f0b9355e8c,5,Ótimo adorei o produto.
+G326,84497ba50d06f5e8e6205d05f3c8d305,b24b30b2680c0388fd18c9175271a8cb,5,gosto de comprar neste sait fico satifeita e acho que é mais barato que os outros.
+G327,b861ac8bc77c14fc228567dc0e7ea4d5,3143dab57ae1317b6911e1330ebd4dac,4,bastante rapido
+G328,69a84b77f5045d56773e49206cc5fd01,2e62dadd571541842fefc7c3b4bf4527,4,gostei e o atraso foi por conta dos correios aqui
+G329,3b62bf0d1593a5a1743a3ca3f3aad2f9,db7b88e881d8890d4ea491444d0e43ed,3,DENTRO DA EXPECTATIVA. AINDA NAO FOI INSTALADA.
+G330,e5a60771691199f87db7dacf2b43a4c4,2a706489eee816fe6f5bfe2298c51840,3,"Brincos de qualidade, bonito...entrega rápida...tudo Ok..."
+G331,56fa821af03d0ed9b61b3c64b09b119f,4da4840a1f38aad712a0857596e24b44,1,"Comprei dois jogos de susplat, mas veio apenas um. Qualidade do tecido horrível. Quero exercer direito de arrependimento."
+G332,f3a80a4c2cdd577d087958626b324741,b760d6b613bc2bca107e3c852501e649,3,"A terceirizacão das entregas esta comprometendo o nome da loja, pela demora na efetivacão da entrega"
+G333,1efbefe3d3376da96678aa4317e81740,44979e484e687b4245460b7b784d9060,3,"Entrega rapida, as toalhas sao boas pelo valor"
+G334,356ee50ffd8a28d029509c015992da60,afd8111e2263ddf8cf41bea299457693,4,A entrega foi rápida....só não foi 100% pq a cascata veio com uma mancha bem em cima da curva da cascata.
+G335,ff3c886afe4a899dcb6ed721c8f4a22d,c4b7e0f753bc9776f48075c977a2d623,4,Não usei ainda mas chegou antes do prazo
+G336,fb689386ef4622079ec1b24fed4c221b,925f350ec2562f25e3431c97c2c1546d,2,"A foto estava errada o produto que comprei foi pela foto, enviaram outro. Preciso trocar"
+G337,ae7b9d753d8f1b80b90c883fbf899d15,6c6f90f3d428175f9e09d7f0d4ac4ed5,1,Comprei um relógio branco me mandaram preto
+G338,260ee32afa3b7b9ed9bc283449dfab75,f8e76bb341db0c60411beac8a83f312a,1,"nao posso avaliar, sem ter recebido"
+G339,83ff05e2cfe0c3828c30179570164972,98e3a00dc4ec45980ec0c6fb585edef4,1,Só acho errado vocês cobrarem o frete e eu ter que ter ido retirar nos correios.
+G340,61add5da06a97e71e9e5de9beb7c70d0,1b1cfac7fddb9f3b9f9021fd182a557b,2,quando comprei o produto a entrega era de 15 dias uteis ja tem quase trinta ainda naõ recebi
+G341,0c8e7347f1cdd2aede37371543e3d163,81c2d284094f3b39baddefb519a30149,3,UM DOS PRODUTOS (ENTREGA02) COMPRADOS NESTE PEDIDO NAO RECEBI AINDA E OUTRO (ENTREGA01) RECEBI EMAIL QUE ESTA COM DIFICULDADES NA ENTREGA E NÃO TIVE MAIS NOTICIAS
+G342,e1fc153beb1dbac5db9f022f9792d32f,92067448c4d19cbdc8e0f8dd683e63b8,1,produto chegou pela metade
+G343,6fa9e3406160b8f42e4c1e06e66bcd50,fe9dfb5a8e406ad9ebccdae758e0bdaa,4,Só achei o material fraco
+G344,eb1cb58ea4c18551d25ef718bc10f755,bf43f434abcaa2f045548a0592ee5e3c,2,"Produto solto dentro de uma caixa de papelão sem nenhum tipo de enchimento amortecedor ou protetor. Felizmente não sofreu danos, mas deixou a desejar no aspecto embalagem."
+G345,f852af75257e76a398630e896c3a1d56,5e53ec687d157b73f86dba72cbb74056,5,Produto chegou antes do prometido .
+G346,3b77d79b82627d331ac57dd219190025,c717b33977b903c18d81f8ee220ca736,1,Ainda não recebi. Já paguei! Absurdo! Falta de consideração pelo consumidor ... Procon
+G347,5ea78582a5a1468c0ee3c8eba786b185,de7ee6becf8148c0952776a49f980c19,5,Adorei e super recomendo
+G348,1fcbf62c26691c0b13afe19901ab7858,55d273b56003b6897fad01895ef4f482,4,"No geral eu gostei, porem o produto não veio exatamente na cor que aparece no site e ele veio enrolado em plástico bolha sem caixa própria do Relório"
+G349,7d00dc49e910413bec006a35f30a7261,62be3a00ba095e9cdbe1fe482e6130a4,4,estou gostando
+G350,fa9f8b9979a8106c1b352f7ac52b52e8,82c25f5fe611fe504eca8e2ded507842,1,"Ainda não recebi o produto previsto para o dia 28/08/2017, estou insatisfeito e gostaria do provido."
+G351,5241b9ac52acb4b2d255c8a40c01d5df,50ed3915a15313618b11ab959726de8c,4,estamos testando
+G352,3399c230c47b20e122f6b143546b61a7,a9c8ac0c26c178f0ad33618f96225a01,2,"muito ruim, atendimento somente eletronico, vc é obrigado a esperar pele boa vontade da loja para entrar em contato."
+G353,264d25d4ae03eecd10955fe8abed3584,e93eb47bed2556150d399b6cc03c4e60,4,empresa super competente entregou bem antes do prazo todos os produtos em ótimo estado
+G354,cb59e7b19573f3d12b040fe2cbc71960,fd63edd3e877295ad1dbe1d2b76b640c,3,"tecido de baixa qualidade, esperava mais."
+G355,c399eafa15aafaecdd1d9008f5b34ed6,3081ddf6e7c6afa4e4124e7882486fcd,5,"Entregou no prazo certo, fiquei feliz com a compra que fiz"
+G356,bddd688231c68c39b458614922f0c349,6eb550fffe44d869e8985452540345ff,5,"Produto show,eh o q eu esperava"
+G357,33ef17e967c998d49ba849ac48d80e80,f8268f009c38528d7c7840a5d46ef8ca,2,Ainda não recebi. Estou aguardando a entrega do produto ou o cancelamento da compra.
+G358,c6c9ec4456cb7d4b5ed2d2cc9675347a,3b14820d642ea72e95df3289b6539c1c,4,"Chegou tudo perfeito, muito antes do prazo, porém o pendente tem uma peça de plástico pequena, aquela que liga na caixa de luz, a rosca é curta."
+G359,35fb5c51a900a2b29d7ecea387b2fe8d,eca26a0368445f56cdb3c5bac1754848,5,A entrega foi de troca do prazo e o produto estava bem embalado. Espero que funcione para o tratamento do alcoolismo.
+G360,84c2cb96ac37d1a38d507cf8dd0ba949,cae8bf54a0ecd79376aac899679de154,4,Produto entregue no prazo e de acordo.
+G361,94db4b547b7b1d77b90969d8922738f8,097c6926697b318e2e49c0d92843211a,4,Bom dia. Na verdade queria o mesmo medicamento só que com laranja amarga que já havia tomado.
+G362,4afaedad28ad2d549b9d2078736c6aeb,9c78e72b5160190f45195d6ecf7875dc,1,"Sempre comprei na lannister e não tive problemas,mas dessa vez não recebi o produto."
+G363,8db3f40219358e29223c135034aed64a,79c243f8bca755a9f830a8ad0dc780ad,1,O mause recebido não chegou na caixa original do fabricante e em um plástico aberto. Demorou para chegar e não obtivemos resposta. Está em funcionamento e espero que seja original e não dê problema.
+G364,19476904d46f2b3d4f22ba93372d9a43,281c358f0dcde9783e899cfe62c1097f,3,"Boa tarde, recebi o produto, porém está com defeito no cortador de massa, não está cortando corretamente !"
+G365,b1335ab6369036a1935af133cea0b009,0589d8b975f21fea2ad626ea99527911,3,"Falta entregar o resto dos produtos, dessa vez não demorou, muito da primeira vez demorou um mes e 10. ( vcs deveriam abaixar mais frete de vcs que é muito caro. Obrigada"
+G366,9b23daa05239c2a78189e02887fe00dd,e417011226af2bd3a4a21d51b2818e36,5,Produto veio certo como vi na foto e chegou antes do prazo. Gostei bastante!!!
+G367,c131334b155e7c4b8b5b3d2f519eed0a,65c1539b20cda15011ae449cc1378b5e,3,Estou aguardando para ver se realmente supera as expectativas.
+G368,97e6f1f11efeb433f108a32476d768c1,626434e11c37535d5f24e9d844249b55,3,"apenas recebi 2 cadeiras e comprei 3, gostaria de saber como faço para receber a terceira"
+G369,6a25a7a0f2ffd1d176b4c99a04e0f19d,b5fa2ba0f79e3ed1060c40becf0952a4,1,Comprei os bonecos achando que era mini figuras lego original e quando chegou o produto era falsificado daqueles que compramos em camelôs não achei que a stark tinha parceiro desse tipo lamentável
+G370,c614b7811fd180dc4ba3c3e3cb804c45,c79c732612d7d2041da78796e91baeac,1,"produto nao funciona,, nao consegui entrar conta por telefone da empresa que me vendeu, fala telefone nao existente. estragou minha impressora o produto q foi me vendido."
+G371,72f8cd13c175f856ceadc8dffda09257,bb0b676d5b0925b1ef529d78548c37b9,5,sempre compro nas lojas lannister e sempre muito bem atendida com os meus produtos entregue em dia
+G372,3f33fc1c73c846b33ec42aa3b2299be0,a73c3ddde7053504491569e480840e6d,3,Lindo o kit. Um pouco frágil.
+G373,d52cc0a66e354897ea83668590d10c50,0a0cda0a8f1fac8330c16b7a8b38bfb8,4,"Eu gostei muito do produto ,e de ótima qualidade."
+G374,7d0b3cf7c1112ffb5aa75000c1fc0067,6dcf0aeb8b1eb4021c26e1d0e9394979,1,"Na descrição do produto no site da lannister havia informação que Painel tamanho 3,05 metros de largura x 2,40 metros de altura. Na embalagem contem 03 rolos de 102 cm de largura , foi o que comprei"
+G375,a66f92eb10c1e19b448c55e03a2249d5,aa57c8f21178b5061a77762e7efa5828,4,"trocaram o produto sem me avisar. veio um bilhete junto com o produto entregue, avisando da troca e se disponibilizando a enviar o correto quando voltasse ao estoque. Imagina o trabalho que eu teria."
+G376,a33df8e2db9476a58bdf2db5b226d127,1f3be0325231ba927e78b6b517db7455,3,"recomendo,porém o produto veio com remendos,espero que não seja corriqueiro"
+G377,2eeb04fcf7e522816748539bb7a0e025,bf855e7e3d03c67755603ee3ec6f740a,4,"Produto conforme o descrito e a foto, porém entregue fora do prazo estipulado por problemas no correio"
+G378,32daf5fa79fba25c936b675baefa600b,c771950ab68648b121a30c7de076dbf8,3,Aguardando receber
+G379,3aa18f23c4c2d672ae0715f30bf0db47,5010ecbb29633b8a98b4e6b6075b238b,4,Oi. Ate. Jone. Nso. Fou. Entregue. O. Meu. Pedido. Estou. Muiiiito. Xateada pos. Js. Foi. Ate. Feito. O. Pagamento. Ese. Mes. No. Cartao mas. Ate. O. Exato. Momento. Nao. Chegou. Ate. Mim. Como. Poss.
+G380,b92a315c46b65207f0755d75cfea5305,0eb90012b8c41dfd386552415c3b1760,5,a capa muito boa mas a pelicula horrivel
+G381,f5d636531a6d87470d211f7b64bd7b1f,6c36ce692e5f1eac162de71b7e369805,4,"os produtos são bons, porem eu paguei por uma mercadoria e venho outra,pedi um jogo de banho com 7 peças e venho com cinco, jogo de cama com 7 e venho com 4."
+G382,5cc79ec5678dba52a61fa5b357a11dc2,389ae1c2f97501a310919a2234e0ce74,4,"Recebi o produto corretamente, mas não pude avaliar sua eficácia."
+G383,598c2c59612fd54c9bffe3ddf37a561c,152f5561c96fd2a7e5d1b71cc158bcdc,2,"encomendei bolas de cor vermelha, recebi bolas cor laranja, não devolvi por causa da urgência pelo produto."
+G384,7c2013da5deb234dd801f4f59f3db5ae,ace92305f332d1f0cee1cf27e79ac5ce,2,Ainda n recebi a entrega
+G385,f6c6445cfbca2bd3ff01d00de03d728e,dd563e7a7841c760917e0cf6aee3740d,2,o produto não era o que eu esperava
+G386,9da0796858da97acd8b67578388a3241,bc5f75667672b3ffd7dd4daea8c408ce,5,"O cartucho está estourado (vazando), já contatei a empresa. Foi-me informado que haverá a troca!"
+G387,628692cc345bbd8dbfa1f050d820cab0,3e6f06c624c7f67d6a0710e39ca97f2b,2,Não gruda muito😩
+G388,eeac980809b539d154598808fce00284,bf21a9300d72af06297ea8782884a99a,5,recebi somente o cobertor os kits de endredon nao recei
+G389,942ce178b66e9c6bef6771051cea5678,3735a11cbccd8916dbc9ccf5f671cc2c,2,bom dia....ainda não recebi o carrinho ate a data presente.. estou no aguardo
+G390,6cc27a8a81b0045e5a9692beaef19326,4c0bc0ca54c4656b765b25b111eca0b0,5,"Recomendo, produto ótimo e prazo de entrega cumprido. Estou muito feliz com a compra."
+G391,5ed4a8d3c35425e0a5ee9b03f9387ac3,820349ed7a25bbfa196bb4f9a28442f2,3,O produto está com um barulho estranho... ainda vendo se isso é normal...
+G392,987541461a7d0f6ea7850357149b24db,8b24b76cb8cadb97c498a77b53fa3bb6,2,Comprei outros produtos e não tive problemas acredito que foi a falta do produto no estoque
+G393,85a48a61085433ef3f98efe4ce7a07a2,b399edffb45924aa34e06ccfab7513bf,5,Então... Fiquei surpresa em receber a mercadoria antes do prazo previsto para entrega. Estou muito satisfeita com os serviços prestados.
+G394,86cb7f120db39b8bdf6e04a260e6a810,17cc6728043d53cc948551dfbf0a338b,1,A minha compra ainda não chegou. E nada de a loja entrar em contato para explicar o motivo...
+G395,8ed1b213b1444d5c4cd6df8b6001de86,09425a70c5acc9730fc3e17c1e81ac2c,3,Não tive nenhum problema o produto chegou antes do prazo.
+G396,b9fb7259b39b4b91a8ce7bc62218c86a,b0e40a3e61447dd4231b10489ab96b8e,1,"Não foi entregue o produto que solicitei. Entrei em contato com as lannister e estou aguardando retorno para a troca pelo produto correto, porém ainda não tive retorno das lannister e já está fora d"
+G397,48bec7b6f7d385e9d648d5f4ea72b6c9,510ad2b778bb4dc4eed820d1c8d22d91,2,"Bom dia, o frete foi o dobro do valor do produto e o demorou quase dois meses para ser entregue, não vou mais comprar desse fornecedor e vou tomar mais cuidado com os periodos e valores do frente."
+G398,916d46eb646c19d164fbf29aba46be48,b6fedebf9c9b16a18f2db9814cd79353,4,"Comprei dois produtos na loja: uma mochila e cinco bonecos... Entretanto, recebi apenas a mochila. Além disso, a entrega toda aparece no site com o status de entregue."
+G399,26eb348aa303692601167af34e3ec344,a5705c0ba22fcdfeeeaf4b2ae485b791,5,O produto chegou antes da data prevista. Amei !
+G400,6eb740716e9f437816dce390b72a5072,604e8476eddf429624f25bb3615ee6c8,2,"Já pedi minha devolução e ate agora n recebi retorno, isso tem mais de 3 dias e me deram prazo de 48hs. Quero meu reembolso"
