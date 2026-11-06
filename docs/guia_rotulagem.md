@@ -113,8 +113,13 @@ Aplique na ordem; a primeira regra que resolver o caso decide.
    - "Produto chegou bem embalado e no prazo. Gostei, só não ganhou 5 estrelas porque o frete é caro." → `elogio`
    - Cobrança de frete indevida (cobrou o que era grátis) é processo da loja → `atendimento_vendedor`.
 
-7. **Ter que buscar nos Correios é problema de entrega.**
-   - "Paguei o frete mas tive que buscar nós Correios. Insatisfeita." → `atraso_ou_nao_entrega`
+7. **Atraso é descumprir o prazo prometido, não "achar que demorou".** Se o cliente diz que a entrega
+   demorou mas chegou dentro do prazo, não é atraso: rotule pelo restante do texto (em geral `elogio`).
+   Se o prazo foi descumprido, é `atraso_ou_nao_entrega` mesmo que o cliente desculpe a loja (regra 1).
+   - "Recebi meu fone corretamente, só que demorou para chegar por conta dos Correios, mas tudo dentro do prazo ." → `elogio`
+   - "Não chegou no prazo porém a culpa não foi do vendedor,sim dos correios. Então tudo certo, recomendo!" → `atraso_ou_nao_entrega`
+   - Ter que buscar nos Correios também é problema de entrega:
+     "Paguei o frete mas tive que buscar nós Correios. Insatisfeita." → `atraso_ou_nao_entrega`
 
 8. **"Ainda não usei"**: com algo positivo (chegou rápido, bem embalado, bonito) é `elogio`; sozinho
    ou só com dúvida é `outro`.
