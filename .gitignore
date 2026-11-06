@@ -8,3 +8,5 @@ mlruns/
 mlartifacts/
 .ipynb_checkpoints/
 graphify-out/
+mlflow.db
+models/
