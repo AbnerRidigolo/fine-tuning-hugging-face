@@ -34,16 +34,18 @@ def carregar_silver() -> pd.DataFrame:
     return pd.read_csv(SILVER_CSV, dtype={"review_id": str})
 
 
+GOLD_REFERENCIA = RAIZ / "data" / "gold" / "rotulos_referencia.jsonl"
+
+
 def carregar_gold() -> pd.DataFrame:
-    """Gold com os rótulos humanos da planilha. Falha se faltar rótulo ou houver classe inválida."""
-    if not GOLD_XLSX.exists():
-        raise FileNotFoundError(GOLD_XLSX)
-    plan = pd.read_excel(GOLD_XLSX, sheet_name="rotular", dtype=str)
-    plan["rotulo"] = plan["rotulo"].str.strip()
-    faltando = plan["rotulo"].isna().sum()
-    invalidos = sorted(set(plan["rotulo"].dropna()) - set(CLASSES))
-    if faltando or invalidos:
-        raise ValueError(f"gold incompleto: {faltando} sem rótulo, classes inválidas: {invalidos}")
+    """Conjunto de teste (400) com rótulos de REFERÊNCIA gerados por LLM (gpt-6.1-sol, guia como prompt).
+
+    Decisão do projeto: não há rotulagem humana; as métricas medem concordância com o LLM de referência.
+    Falha se faltar rótulo para algum item.
+    """
     meta = pd.read_csv(GOLD_META, dtype={"review_id": str})
-    gold = meta.merge(plan[["id_gold", "rotulo", "confianca_1a3"]], on="id_gold", validate="1:1")
+    ref = ler_jsonl(GOLD_REFERENCIA).rename(columns={"id": "id_gold"})
+    gold = meta.merge(ref[["id_gold", "rotulo", "confianca", "modelo"]], on="id_gold", how="left", validate="1:1")
+    if gold["rotulo"].isna().any():
+        raise ValueError(f"gold incompleto: {gold['rotulo'].isna().sum()} itens sem rótulo de referência")
     return gold
