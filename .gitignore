@@ -10,3 +10,5 @@ mlartifacts/
 graphify-out/
 mlflow.db
 models/
+dist/
+results/_tmp_import/
