@@ -1,0 +1,17 @@
+id_gold,review_score,texto,rotulo_referencia,rotulo_silver
+G089,2,Pois por baratheon é mais rápido. Por exemplo Na compra no baratheon agente compra hoje. Exemplo. Na sexta-feira chega o produto que agente comprou de Essa loja chegou faiz na data que foi co,outro,elogio
+G090,2,A vedação é fraca e vaza. Não recomendo.,defeito_ou_avaria,qualidade_abaixo_do_esperado
+G126,3,Poderia ter chegado antes!!!!,atraso_ou_nao_entrega,outro
+G157,2,Produto é MENOR do que o anúncio diz. E veio sem a Nota Fiscal. E o link que recebi por e-mail para acessar a Nota Fiscal não está funcionando. Favor verificar. Aguardo.,atendimento_vendedor,qualidade_abaixo_do_esperado
+G169,2,Aguardando posição sobre o produto,atendimento_vendedor,outro
+G206,2,"O produto chegou, no entanto não cobriu a tela toda como descrito e não é de gel, é película de vidro comum",qualidade_abaixo_do_esperado,produto_errado_ou_incompleto
+G212,2,"Não é um produto que chega e é passível de instalação. Sem manual, é necessário entrar em contato com a empreaa fabricante. Um produto caro que exige plataforma Windows para instalação e configuração.",qualidade_abaixo_do_esperado,produto_errado_ou_incompleto
+G221,5,Muito.rop,outro,elogio
+G253,3,"Muito bonito e com ótimo custo benefício, mas veio com algumas costuras soltas",qualidade_abaixo_do_esperado,defeito_ou_avaria
+G255,1,O produto veio sem nenhum lugar para pôr o sinto de segurança. Na hora da compra não dizia que viria fechado e o consumidor deveria abrir em casa (perigando danificar o produto).,qualidade_abaixo_do_esperado,defeito_ou_avaria
+G273,4,"HOUVE UM POUCO DE DEMORA, MAS DEU TUDO CERTO, OBRIGADO!",elogio,atraso_ou_nao_entrega
+G295,3,"A entrega chegou dentro do prazo contudo com uma certa demora, pois quando a entrega era feita pela a loja Americana o produto chegava bem antes da data prevista, acredito que da forma que esta o site",elogio,outro
+G299,3,"Ainda faltam me entrega um produto ,quando chega eu avilo melhor .",atraso_ou_nao_entrega,produto_errado_ou_incompleto
+G310,4,Só não vou pedir pra trocar porque eu vo ter o trabalho de ir no correio! O produto veio com uma estampa de caveira mexicana que não constava na foto eu queria sem essa estampa mais infelizmente .,qualidade_abaixo_do_esperado,produto_errado_ou_incompleto
+G361,4,Bom dia. Na verdade queria o mesmo medicamento só que com laranja amarga que já havia tomado.,produto_errado_ou_incompleto,outro
+G369,1,Comprei os bonecos achando que era mini figuras lego original e quando chegou o produto era falsificado daqueles que compramos em camelôs não achei que a stark tinha parceiro desse tipo lamentável,qualidade_abaixo_do_esperado,produto_errado_ou_incompleto

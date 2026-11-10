@@ -1,0 +1,8 @@
+,silver:atraso_ou_nao_entrega,silver:produto_errado_ou_incompleto,silver:defeito_ou_avaria,silver:qualidade_abaixo_do_esperado,silver:atendimento_vendedor,silver:elogio,silver:outro
+ref:atraso_ou_nao_entrega,79,1,0,0,0,0,1
+ref:produto_errado_ou_incompleto,0,68,0,0,0,0,1
+ref:defeito_ou_avaria,0,0,31,1,0,0,0
+ref:qualidade_abaixo_do_esperado,0,4,2,43,0,0,0
+ref:atendimento_vendedor,0,0,0,1,15,0,1
+ref:elogio,1,0,0,0,0,128,1
+ref:outro,0,0,0,0,0,2,20

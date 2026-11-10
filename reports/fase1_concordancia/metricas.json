@@ -1,0 +1,6 @@
+{
+  "kappa_cohen": 0.949819270968096,
+  "concordancia": 0.96,
+  "f1_macro_silver_vs_referencia": 0.9427904730535269,
+  "n": 400
+}
