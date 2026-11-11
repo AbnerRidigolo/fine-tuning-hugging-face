@@ -1,0 +1,401 @@
+id_gold,texto,rotulo,pred,confianca
+G001,Comprei um produto e veio faltando na entrega...,produto_errado_ou_incompleto,atraso_ou_nao_entrega,0.9699028
+G002,"A loja postou bem rápido, embalagem simples, mas a encomenda estava bem protegido dentro da caixa. O correio atrasou a entrega.",atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.99591905
+G003,Comprei faz meses esse relógio e até a presente data não recebi e me sinto lesado e prejudicado pois comprei com antecedência para dar de presente e não chegou até agora!,atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.9958188
+G004,Entrega rápida e produto conforme anúncio,elogio,elogio,0.99772996
+G005,aCHEI O PRODUTO DE UMA CATGORIA INFERIOR AO QUE IMAGINAVA. 18O FIOS MUITO DUROS E ASPEROS.,qualidade_abaixo_do_esperado,qualidade_abaixo_do_esperado,0.9912272
+G006,só não gostei da qualidade do pano da cortinha poderia avisar que é plastico e não pano,qualidade_abaixo_do_esperado,qualidade_abaixo_do_esperado,0.9926214
+G007,dsdfr3fEF,outro,outro,0.98757964
+G008,O produto que recebi é diferente e inferior ao anunciado. Quero devolver.,qualidade_abaixo_do_esperado,produto_errado_ou_incompleto,0.99353117
+G009,O produto apresenta a qualidade muito baixa e defeito de fabricação do mosquiteiro.,defeito_ou_avaria,defeito_ou_avaria,0.5714939
+G010,Tamanho super diferente da imagem do anúncio! Super chateada com a diferença!,qualidade_abaixo_do_esperado,qualidade_abaixo_do_esperado,0.9909224
+G011,Demora. Eu compro tudo pelo baratheon aí vem tudo separado no cartão. Pq as lojas são diferentes. Horrível,atendimento_vendedor,atraso_ou_nao_entrega,0.9548127
+G012,"Antes di prazo, foi entregue. Muito bem embalado! Obrigado e Parabéns!",elogio,elogio,0.9976974
+G013,Muita demora na entrega,atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.9963755
+G014,"Péssima empresa, não entregou o produto e não responde as minhas solicitações de cancelamento.já paguei a primeira parcela e não tive nenhum retorno",atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.9588521
+G015,Estou aguardando posicionamento da empresa.,atendimento_vendedor,atendimento_vendedor,0.66341627
+G016,Não foi entregue na minha residencia tive que buscar nos correios,atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.9962166
+G017,Sim eu recomendaria o produto chegou antes da data tudo certinho,elogio,elogio,0.9976973
+G018,Eu adorei o produto,elogio,elogio,0.9976814
+G019,"só ficou pequena, futuramente pedirei uma maior se tiver",qualidade_abaixo_do_esperado,qualidade_abaixo_do_esperado,0.9907424
+G020,Não sei informar porque foi presente,outro,outro,0.9865089
+G021,"O produto não funciona, demora demais par o envio e depois para resolver a devolução",defeito_ou_avaria,defeito_ou_avaria,0.9879518
+G022,"o produto veio quebrado ,,, quero devolver",defeito_ou_avaria,defeito_ou_avaria,0.9889025
+G023,"agradeço muito, pois recebi o produto correto conforme encontrado no site, a entrega foi super rápida. fiquei muito satisfeito e com certeza vou recomentar para os amigo.",elogio,elogio,0.9977181
+G024,Recebi o produto de acordo com o que foi solicitado e foi entregue muito antes do prazo,elogio,elogio,0.9976292
+G025,Preciso fazer o cancelamento dessa compra pois até agora nada foi entregue,atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.9956743
+G026,"Tudo ótimo, principalmente por que o produto chegou antes do prazo... obrigado!",elogio,elogio,0.9977356
+G027,"Demora absurda para entrega, dentro do prazo especificado por eles, mas ainda sim muito demorado!",outro,outro,0.84206206
+G028,"Prazo compatível ao preço cobrado, ágil.",elogio,elogio,0.99749005
+G029,Poderia ser sedex ao invés de PAC.,outro,atraso_ou_nao_entrega,0.9769016
+G030,"Eu comprei uma carteira, que chegou até antes do prazo. Porém, em menos de um mês de uso,o acabamento da carteira se soltou todo.",defeito_ou_avaria,defeito_ou_avaria,0.8861301
+G031,chegou em ordem dentro do prazo.,elogio,elogio,0.9977055
+G032,ainda não testei o produto. achei um pouco frágil. não sei se vai dar para dar chupeta numa s10,qualidade_abaixo_do_esperado,qualidade_abaixo_do_esperado,0.9919551
+G033,As sacolas são menores do que aparentam.,qualidade_abaixo_do_esperado,qualidade_abaixo_do_esperado,0.9930205
+G034,"Não foi entregue a máscara reconstrutora, o selante veio mal embalado e vazou muito. O produto não tinha lacre na tampa. Não recomendo. Muito ruim.",defeito_ou_avaria,defeito_ou_avaria,0.9802419
+G035,Quase um mês de atraso na entrega,atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.9965888
+G036,Recebi o relógio cronometro mas não recebi a argola olímpica.,produto_errado_ou_incompleto,produto_errado_ou_incompleto,0.9955611
+G037,"BOM DIA VENHO INFORMAR QUE O PRODUTO NÃO FOI ENTREGUE EM MINHA RESIDENCIA, FAZENDO COM QUE EU GASTASSE DUAS VEZES , UMA COM TAXA DE ENTREGA E OUTRA COM A NECESSIDADE DE IR BUSCAR NOS CORREIOS.",atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.9929571
+G038,Excelente chegou no prazo.,elogio,elogio,0.9976254
+G039,"Boa noite. ... quando fiz o pedido era um kit com 3 , pedi 2 unidades do kit , recebi apenas 2 unidades. .. e não os kits.",produto_errado_ou_incompleto,produto_errado_ou_incompleto,0.99677724
+G040,"Recebi o produto certinho, mas quero o reembolso do frete pois eu paguei e tive que ir buscar no correio. Gastei gasolina e ainda paguei o frete, sacanagem",atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.996161
+G041,adorei muito linda e pratica . recomendo!!,elogio,elogio,0.9976094
+G042,Considerando o site stark nunca tive problema algum e recomendo ao meus amigos porém está empresa que está atendendo com a venda do produto deixou a desejar com o prazo de entrega... Será q chega?,atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.99598974
+G043,O produto não foi entregue!,atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.9966629
+G044,ainda não recebi meu produto e quero saber como anda a entrega. Estou pensando em cancelar a compra.,atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.9962847
+G045,Bem simples mais o valor era compativel,elogio,qualidade_abaixo_do_esperado,0.9705218
+G046,"Produto lindo, ótimo material, muito feliz com minha compra!!!",elogio,elogio,0.9976907
+G047,"veio produto diferente da foto , modelo diferente",produto_errado_ou_incompleto,produto_errado_ou_incompleto,0.99593663
+G048,"O tapete é muito bonito, mas veio menor do que o especificado no anúncio. A medida informada era de 2m x 2m e veio 1,80 x 1,80.",qualidade_abaixo_do_esperado,qualidade_abaixo_do_esperado,0.99325377
+G049,Não gostei e não recomendo. O som é baixo e logo de início já não funcionou um dos lados do fone. Horrível,defeito_ou_avaria,defeito_ou_avaria,0.91654694
+G050,Nao cabe no meu ps4...,qualidade_abaixo_do_esperado,qualidade_abaixo_do_esperado,0.96799535
+G051,O produto ainda não chegou!!!!,atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.99648273
+G052,Posso aceitar isso e meu coração continua aberto,outro,outro,0.98036283
+G053,A compra do produto e sua entrega foram realizadas de forma satisfatória Naõ houve contratempo algum Tudo correu sem maiores contratempos,elogio,elogio,0.99582857
+G054,Não obtive nenhuma resposta do site em relação ao atraso da entrega do produto,atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.99662614
+G055,Entrega rápida,elogio,elogio,0.9976285
+G056,Nao gostei do produto pois veio com detalhes no acabamento e com sinais que ja foram uzados,qualidade_abaixo_do_esperado,qualidade_abaixo_do_esperado,0.9832713
+G057,so demorou um pouco mais valeu,atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.99510777
+G058,"A estampa é muito linda, a caminha para o cachorrinho também. O tecido poderia ser um pouquinho melhor. Mas, estou satisfeita.",qualidade_abaixo_do_esperado,qualidade_abaixo_do_esperado,0.98365533
+G059,Preciso fazer a troca e não tem ninguém que me dê o suporte para me auxiliar. No site não estou conseguindo.,atendimento_vendedor,atendimento_vendedor,0.98115367
+G060,Comprei 02 produtos e só recebi 01.,produto_errado_ou_incompleto,produto_errado_ou_incompleto,0.9964736
+G061,"Não fica bom se instalado em azulejos, pois marca muito nos rejuntes, ficando com muitas bolhas..por isso não indico o produto, a loja entregou super rápido.",qualidade_abaixo_do_esperado,qualidade_abaixo_do_esperado,0.96321905
+G062,"Veio tudo certinho e antes da data prevista.Apenas 1 pequeno pedaço da árvore veio c/ a madeira comida,vou tentar preencher c/ pó de madeira,próximo ao aniversário irei montar as peças e ver melhor.",defeito_ou_avaria,produto_errado_ou_incompleto,0.99489284
+G063,"não veio tudo em um pacote só, foi chegando separado .. mas chegou tudo certinho",elogio,produto_errado_ou_incompleto,0.99439234
+G064,Estou no aguardo da entrega dos produtos.,atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.99555427
+G065,até o momento não recebi meu produto,atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.99573106
+G066,"a bomba nao chegou na minha residencia, so veio a luminaria.",produto_errado_ou_incompleto,produto_errado_ou_incompleto,0.9964316
+G067,Bom vendedor chegou dentro do prazo tudo ok,elogio,elogio,0.997614
+G068,a encomenda tem prazo para chegar até 02-01-2018 e não posso avaliar nada pois estão dentro do prazo!,outro,outro,0.96991795
+G069,"o produto chegou perfeito, otima qualidade, so que é do menor!",qualidade_abaixo_do_esperado,qualidade_abaixo_do_esperado,0.9904026
+G070,recebi o produto avariado (o copo de vidro todo quebrado. Ainda aguardo contato do site para fazer a troca do meu produto,defeito_ou_avaria,defeito_ou_avaria,0.9873541
+G071,"Fiquei muito satisfeito com a entrega, e a agilidade",elogio,elogio,0.997666
+G072,"O produto ja passou do prazo, e até agora nao chegou .",atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.9958151
+G073,Não recomendo!! Cancelei a compra e a loja não dá retorno. Já extrapolou o tempo. Quero devolver e receber o extorno do valor pago.,atendimento_vendedor,atendimento_vendedor,0.9574906
+G074,"Comprei o relógio dia 20/02 pensando em dar de presente de aniversário para o dia 11/03, acabou que até hoje não chegou o relógio. Mandei várias reclamações e até hj ngm me retornou TB.",atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.99489355
+G075,Meu filho gosto,elogio,elogio,0.9972134
+G076,"ENTREGA BEM ANTES DO PRAZO, MATERIAL MUITO BOM , UNICA RESALVA É QUE A COR DO PATINS VEIO DIFERENTE, MAS A MINHA ADOROU A COR TBM, SATISFEITA COM O PRODUTO",produto_errado_ou_incompleto,produto_errado_ou_incompleto,0.86919725
+G077,"Foi entregue dentro do prazo, porém o produto veio com uma parte descosturada",defeito_ou_avaria,defeito_ou_avaria,0.97844714
+G078,"Produto como anunciado,boa qualidade,bom acabamento.Foi facil a instalação,até o momento a compra foi boa.",elogio,elogio,0.9976821
+G079,A parte da capa onde fica os botões de volume e liga/desliga acionam mais de um botão ao mesmo tempo.,defeito_ou_avaria,qualidade_abaixo_do_esperado,0.6845109
+G080,Entrega rapidíssima!!!! O produto vou avaliar ainda.. olhei superficialmente.. parece otimo.. vamos ver quanto instalar!,elogio,elogio,0.997008
+G081,"Não recebi o produto, tentei por várias vezes falar com vcs e não consegui, ninguém me atendeu pra me explicar o motivo de não ter entregue o que comprei!Estou insatisfeita !!",atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.99634224
+G082,Não entregaram os dois ainda falta um.,produto_errado_ou_incompleto,produto_errado_ou_incompleto,0.99484396
+G083,Creio que o atraso ocorreu devido à greve dos correios,atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.99544597
+G084,Chegou no prazo adequado.,elogio,elogio,0.99767095
+G085,"Produto bom, chegou no prazo.",elogio,elogio,0.99764913
+G086,"Isso deve ser piada, não recebi o produto e ainda tenho que responder essa avaliação.",atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.99634284
+G087,"muito o serviço,posso recomendar..",elogio,elogio,0.9976357
+G088,"Em relação à compra e entrega foi tudo tranquilo, mas o tapete, mesmo fazendo os ajustes indicados na instrução, não tem um encaixe perfeito.",qualidade_abaixo_do_esperado,qualidade_abaixo_do_esperado,0.87575585
+G089,Pois por baratheon é mais rápido. Por exemplo Na compra no baratheon agente compra hoje. Exemplo. Na sexta-feira chega o produto que agente comprou de Essa loja chegou faiz na data que foi co,outro,outro,0.70048225
+G090,A vedação é fraca e vaza. Não recomendo.,defeito_ou_avaria,defeito_ou_avaria,0.98778975
+G091,"Esse mp3 é um produto chines da pior qualidade que existe áudio péssimo, bateria dura apenas 50min mesmo trocando fone pra um da JBL o áudio ainda é horrível não recomendo ninguém a compra.",qualidade_abaixo_do_esperado,qualidade_abaixo_do_esperado,0.99361575
+G092,"Chegou certo o produto, no prazo super recomendo é bonito, funcional , prático.",elogio,elogio,0.9976604
+G093,"Feito contato por email e telefone, já debitado em minha conta o valor, não recebi o produto e nem tive uma definição pois comprei um produto com uma metragem e estava vindo outro com tamanho inferior",atraso_ou_nao_entrega,produto_errado_ou_incompleto,0.99615127
+G094,Material fragil e com cheiro ruim,qualidade_abaixo_do_esperado,qualidade_abaixo_do_esperado,0.9932181
+G095,"Poderiam ter a opção de frete por sedex ou transportadora, para agilizar a entrega.",outro,outro,0.8917271
+G096,Gostei muito do atendimento prestado,elogio,elogio,0.9977011
+G097,As folhas da planta de ótima qualidade e o caule também perfeito. Excelente produto. Bem embalado e chegou bem antes do prazo. Compra super recomendada!,elogio,elogio,0.9976948
+G098,Muito bom entrega super rápida,elogio,elogio,0.9976827
+G099,O colchão é de ótima qualidade.,elogio,elogio,0.99759954
+G100,"Comprei a proteina isolada da black skull no site e recebi a proteina concentrada da marca, que é um produto diferente. Proteina isolada não contém carboidratos e a concentrada sim. fui enganado!!",produto_errado_ou_incompleto,produto_errado_ou_incompleto,0.99535155
+G101,"Produto um pouco fino, mas o pelo é de qualidade",qualidade_abaixo_do_esperado,qualidade_abaixo_do_esperado,0.9760375
+G102,"O relógio é simples, está ok. A embalagem veio amassada.",defeito_ou_avaria,defeito_ou_avaria,0.813917
+G103,Comprei e paguei por dois kits é só recebi 1,produto_errado_ou_incompleto,produto_errado_ou_incompleto,0.9962716
+G104,"Não recebi o produto, sendo que o valor já foi pago!!! Totalmente insatisfeito.",atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.99647254
+G105,Ponto negativo foi a venda de produto que não possui em estoque. O que frustra o consumidor.,atendimento_vendedor,atendimento_vendedor,0.9830793
+G106,Propaganda enganosa lá na descrição diz que o relógio é isso e aquilo que é bom e tal mas na verdade não é nada disso além de tudo a cor que eu pedi foi dourado e veio uma cor que não é Dourado.,produto_errado_ou_incompleto,produto_errado_ou_incompleto,0.99581957
+G107,O produto não foi entregue. Nem se quer chegou em casa.,atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.9962637
+G108,"comprei 2 unidades conforme o pedido, chegou uma unidade a preço de 2 unidades conforme a nota fiscal, ou seja comprei 2 lonas de esteira e recebi só uma no site tava 89,90 cada unidade comprei duas.",produto_errado_ou_incompleto,produto_errado_ou_incompleto,0.9960043
+G109,"MT bom produto, lindo , amei.",elogio,elogio,0.99764496
+G110,"Recebi o produto antes do prazo combinado, veio incluso uma espátula e um manual de instrução, recomendo essa loja.",elogio,elogio,0.9959266
+G111,"Recebi dois carregadores, porem com referencias diferentes. Modelo CDQ-X28 (CORRETO), e o outro que dei de presente e NAO SERVIU.",produto_errado_ou_incompleto,produto_errado_ou_incompleto,0.9961469
+G112,Amei e super recomendo,elogio,elogio,0.99768865
+G113,Produto Boa qualidade atendeu minha expectativa . Chegou antes do praso combinado . Eu recomendo,elogio,elogio,0.9976891
+G114,"Como sou cliente, minha satisfação só aumenta. Grata a toda equipe.",elogio,elogio,0.8991362
+G115,"A toalha q se referem ao piso do banheiro, veio na cor bege e nao8na cor vermelho como está na amostra.",produto_errado_ou_incompleto,produto_errado_ou_incompleto,0.9950991
+G116,"A RESPONSABILIDADE DE ENTREGA DO PRODUTO É DO VENDEDOR, SE OS CORREIOS ESTÃO COM PROBLEMAS, NÃO É CULPA DO COMPRADOR. MINHA FILHA FICOU SEM PRESENTE DE ANIVERSARIO. NÃO TEM DINHEIRO QUE PAGUE ISSO.",atraso_ou_nao_entrega,produto_errado_ou_incompleto,0.5910943
+G117,"Efetuado a compra dia 16/02 aprovado dia 20/02, emitido a nota 22/02 mto tempo para processo de analise e envio e ate o dia 08/03 não recebi o produto",atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.99663323
+G118,Bem acabado e tamanho ideal...vale a pena,elogio,elogio,0.9977697
+G119,"Embora tenha demorado a chegar, valeu super a pena! Produto como o anunciado.",atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.8864404
+G120,TUDO CERTO COMO SEMPRE DAS lannister.COM,elogio,elogio,0.9976701
+G121,"Comprei duas memoria iguais (KVR16LS11/8), porem foram entregues memorias diferentes (uma delas foi entregue errado (KVR16S11/8).",produto_errado_ou_incompleto,produto_errado_ou_incompleto,0.9963966
+G122,"produto incompleto, qualidade ruim.",produto_errado_ou_incompleto,qualidade_abaixo_do_esperado,0.7878691
+G123,comprei e nao recebi o produto vou colocar na justiça,atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.9960704
+G124,Amei....superou minhas expectivas! Produto de qualidade e entrega rápida.,elogio,elogio,0.9977295
+G125,pedi dois pacotes so chegou 1,produto_errado_ou_incompleto,produto_errado_ou_incompleto,0.99654335
+G126,Poderia ter chegado antes!!!!,atraso_ou_nao_entrega,outro,0.5406327
+G127,Recebi o produto e gostei da qualidade,elogio,elogio,0.9976762
+G128,"Produto de boa qualidade , bem acabado, uma gracinha, chegou super rápido.",elogio,elogio,0.9976311
+G129,"Não recebi o produto Ainda, mas aguardo receber até sexta feira. A previsão de entrega era dia 20.",atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.99033195
+G130,"Não gostei! Já usei esse perfume outras vezes e ele é maravilhoso ótima fixação porém esse que recebi, com uma hora de uso vc já não sente mais nada . Se possível gostaria que fosse feito a troca",qualidade_abaixo_do_esperado,qualidade_abaixo_do_esperado,0.8251336
+G131,"Entrega super rápida, produto de boa qualidade.",elogio,elogio,0.99768305
+G132,Entrega bastante demorada,atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.99654144
+G133,"entregue antes do prazo, sistema de acompanhamento do produto credibiliza a loja.",elogio,elogio,0.99746823
+G134,"ME INFORMARAM QUE EU RECEBERIA EM CASA O MATERIAL E NÃO PELO CORREIO, QUANDO EU FIZ A COMPRA , ALEM DISSO A AGENCIA FICA PROXIMA A MINHA RESIDENCIA , ENTAO NÃO CUSTAVA ENTREGAR EM MINHA RESIDENCIA.",atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.9378964
+G135,"era para ser entregue 4 produtos tres e depois mais um, so foi entregue dois produtos",produto_errado_ou_incompleto,produto_errado_ou_incompleto,0.99625945
+G136,"O produto atende à função, porém o cabo é rígido demais. Difícil de enrolar e desenrolar para guardar. Preferiria que fosse mais maleável",qualidade_abaixo_do_esperado,qualidade_abaixo_do_esperado,0.9925937
+G137,ainda não usei mais recomendo,elogio,elogio,0.59008056
+G138,Atendimento cumprido.,elogio,elogio,0.9975829
+G139,"O tecido é ótimo o cumprimento na altura também a, porem na largura não veio exatamente quatro metros veio bem menos, então deveria ter comprado duas aí sim fica como na foto. Chega bem antes do prazo",qualidade_abaixo_do_esperado,qualidade_abaixo_do_esperado,0.82411385
+G140,"Chegou no prazo, produto condiz com o que esta no anúncio.",elogio,elogio,0.9976943
+G141,Não recebi o produto...Não fui orientado....Não me ligaram....Estou muito puto!,atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.9958717
+G142,"Estou INSATISFEITO com a compra, poque depois de feito, As lannister, saiu da negociacão,|transferindo tudo p a targaryen, que trazia informacões desencontradas, e não encaminhou a nota fiscal de venda.i",atendimento_vendedor,atendimento_vendedor,0.9662211
+G143,"Produto ok, entrega ok",elogio,elogio,0.99764603
+G144,Produto anunciado não condiz com o aparelho,qualidade_abaixo_do_esperado,qualidade_abaixo_do_esperado,0.95006526
+G145,produto correto e no prazo o cd veio solto dentro da embalagem porque o que prende está quebrado não apresenta riscos não tenho video game para testar é um presente entro se necessario troca contato,defeito_ou_avaria,elogio,0.91843826
+G146,O produto não é tão portátil quanto anunciado.,qualidade_abaixo_do_esperado,qualidade_abaixo_do_esperado,0.994365
+G147,"BOA TARDE EU NÃO RECEBI O PEDIDO COMPLETO, ENTREGARAM SOMENTE O VARÃO. A CORTINA NÃO FOI ENTREGUE, ESTOU NO AGUARDO DE UMA RESOLUÇÃO ARA ESTE PROBLEMA",produto_errado_ou_incompleto,produto_errado_ou_incompleto,0.99339586
+G148,Eu comprei 2unidade veio só uma estou aguardando o outro!,produto_errado_ou_incompleto,produto_errado_ou_incompleto,0.9961689
+G149,Comprei um cesto Joaninha e recebi um de Pintinho....,produto_errado_ou_incompleto,produto_errado_ou_incompleto,0.9961125
+G150,entrega da mercadoria antes do prazo,elogio,elogio,0.9975496
+G151,Comprei 2 e paguei duas e recebi uma. Já avri Reclamação e nada,produto_errado_ou_incompleto,produto_errado_ou_incompleto,0.99664295
+G152,Super recomendo a loja. Produto entregue muito antes do prazo e de excelente qualidade.,elogio,elogio,0.99767154
+G153,Só chegou o pau de selfie.,produto_errado_ou_incompleto,produto_errado_ou_incompleto,0.99635553
+G154,"Recomendaria o produto porém o tempo de entrega demorou demais, mesmo estando dentro do prazo.",elogio,atraso_ou_nao_entrega,0.9944753
+G155,Câmera não funcionou,defeito_ou_avaria,defeito_ou_avaria,0.9874588
+G156,Demorou muito para chegar,atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.9966203
+G157,Produto é MENOR do que o anúncio diz. E veio sem a Nota Fiscal. E o link que recebi por e-mail para acessar a Nota Fiscal não está funcionando. Favor verificar. Aguardo.,atendimento_vendedor,produto_errado_ou_incompleto,0.9106025
+G158,"Ate o momento não recebi a minha compra, e esta constando no rastreamento que foi entregue",atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.9959514
+G159,"Só acho o frete aqui pra minha cidade caro, algumas coisas desisto de comprar por causa do valor do frete. Mas fora isso tudo beleza",elogio,outro,0.9758183
+G160,"Total sinceridade com o cliente, entrega muito rápida totalmente satisfeita com produto",elogio,elogio,0.9977069
+G161,PRODUTO CHEGOU CORRETAMENTE DENTRO DO PRAZO . UM PONTO NEGATIVO É UM PRAZO PARA ENTREGA BEM ELEVADO .,elogio,elogio,0.9975714
+G162,"Poderia ser 5 estrelas, mas pelo fato do vidro do piano estar rachado, não vou poder dar as 5 estrelas.",defeito_ou_avaria,defeito_ou_avaria,0.9529426
+G163,Pantufa simples e muito confortável. Entrega rápida e eficiente.,elogio,elogio,0.9974081
+G164,Estou tentando ver se os parceiros da stark continuem com seus compromissos aos seus clientes. E pontualidade,outro,outro,0.97461265
+G165,Tudo certo e dentro do prazo.,elogio,elogio,0.9976826
+G166,"Veio com defeito, assim que liguei ela, ela estourou. Solicito a troca do produto",defeito_ou_avaria,defeito_ou_avaria,0.98929495
+G167,"Pelo preço, valeu muito a pena são lindas e bem eespaçosas.",elogio,elogio,0.99772483
+G168,Um pézinho maior que o outros,defeito_ou_avaria,qualidade_abaixo_do_esperado,0.991687
+G169,Aguardando posição sobre o produto,atendimento_vendedor,atendimento_vendedor,0.71152544
+G170,Algumas funções do controle não funciona ; porém as funções básicas está ok,defeito_ou_avaria,defeito_ou_avaria,0.98786306
+G171,Faltou um pacote de sacos de lixo,produto_errado_ou_incompleto,produto_errado_ou_incompleto,0.99650806
+G172,"Paguei um frete de 388,00 e tive que retirar o produto nos correios, sendo submetida a uma fila enorme, o que ocasional uma perda de tempo.",atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.99648356
+G173,Produto foi entregue com muita demora,atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.996049
+G174,"Chegou o kit da colcha, porém não chegou a manta Rosa, e no app esta com entregue.",produto_errado_ou_incompleto,produto_errado_ou_incompleto,0.9880812
+G175,Peças metálicas e alguns parafuso com ferrugem.,defeito_ou_avaria,defeito_ou_avaria,0.98795587
+G176,Mochila ótima e lancheira também!!! Entrega antes do prazo...,elogio,elogio,0.9976889
+G177,os parceiros da lannister são ótimos mas ainda estou esperando o produto que comprei,atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.99455065
+G178,Arranhador veio com lascas na base por conta de embalagem inadequada. Sugere-se que os próximos sejam enviados em caixa - não apenas embalados em papel.,defeito_ou_avaria,defeito_ou_avaria,0.98639965
+G179,Não veio o produto certo,produto_errado_ou_incompleto,produto_errado_ou_incompleto,0.996318
+G180,prefiro não opinar,outro,outro,0.9838207
+G181,"Foi informado que seria enviado um produto bivolt e enviaram um produto 127v, resultando mais tempo sem cafeteira, reclamação realizada ao site e já se foram 48 horas e nenhum contato realizado.",produto_errado_ou_incompleto,produto_errado_ou_incompleto,0.9966671
+G182,"De acordo com a especificação descrita no produto, o modelo do computador para qual comprei a fonte não está aceitando carregar com essa a fonte comprada",defeito_ou_avaria,produto_errado_ou_incompleto,0.89323056
+G183,O CORREIO ME ENTREGOU SOMENTE UMA CORTINA SENDO QUE NA NOTA FISCAL CONSTAM DUAS E PEDI DUAS.,produto_errado_ou_incompleto,produto_errado_ou_incompleto,0.9967083
+G184,"É bm mas o material é pouco fraco, precisa melhorar",qualidade_abaixo_do_esperado,qualidade_abaixo_do_esperado,0.9941367
+G185,"Já mandei 3 e-mail, pois no status do meu pedido, consta a informação de que não tem o produto em estoque, mas no mesmo dia, recebo e-mails de oferta, onde consta o produto que comprei,",atendimento_vendedor,atendimento_vendedor,0.9872399
+G186,O produto é bom só que o valor do frete é muito caro não recomendo.,elogio,elogio,0.9372832
+G187,excelente custo beneficio,elogio,elogio,0.9976816
+G188,Eu comprei uma capa pra guitarra e veio errado ela veio pequena demais a guitarra nem cabia,produto_errado_ou_incompleto,produto_errado_ou_incompleto,0.9942503
+G189,"O produto solicitado foi entregue com algum atraso mas em perfeito estado,Muito Obrigado.",atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.9952918
+G190,"O produto que chegou é muito bom não vou trocar ,mas não foi o que eu escolhi a cor veio errada e com algumas partes estão diferentes da descrição.",produto_errado_ou_incompleto,produto_errado_ou_incompleto,0.993899
+G191,Fiz um pedido de três relógios e só chegaram dois. Estou aguardando chegar o outro e até agora nada. Já faz três dias que recebi os dois relógios.,produto_errado_ou_incompleto,produto_errado_ou_incompleto,0.99636686
+G192,A capa protetora não é exatamente o que eu esperava deixa a desejar no tipo material e na qualidade.,qualidade_abaixo_do_esperado,qualidade_abaixo_do_esperado,0.99449533
+G193,Aprovada,elogio,elogio,0.99529797
+G194,"Pedi dois produtos mais Recebi uma caixa apenas com um, logo em seguida recebi um e-mail da lannister perguntando se eu recebi os dois produtos.",produto_errado_ou_incompleto,produto_errado_ou_incompleto,0.9968166
+G195,"Recomendo, inclusive entregue antes do prazo previsto.",elogio,elogio,0.99771833
+G196,"SERVIÇO EXCELENTE, MERCADORIA ENTREGUE ANTES DO PRAZO INFORMADO",elogio,elogio,0.99716884
+G197,"super recomendo, entrega no prazo!",elogio,elogio,0.9976782
+G198,Não recebi nenhum,atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.9807781
+G199,Entrega rápida e produto perfeito,elogio,elogio,0.9977182
+G200,chegou direitinho,elogio,elogio,0.99768186
+G201,"Não sei o que aconteceu mais o meu produto foi desenvolvido ao contrário,",defeito_ou_avaria,qualidade_abaixo_do_esperado,0.7522131
+G202,AINDA NÃO RECEBI O MEU PEDIDO.,atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.99619055
+G203,"Mesmo vindo na voltagem diferente da que eu pedi ,eu aida recomendo o site",produto_errado_ou_incompleto,produto_errado_ou_incompleto,0.9766838
+G204,A entrega poderia ser mais rápida!,outro,outro,0.92716134
+G205,O produto chegou em ótimas condições e bem antes do prazo de entrega.,elogio,elogio,0.99772483
+G206,"O produto chegou, no entanto não cobriu a tela toda como descrito e não é de gel, é película de vidro comum",qualidade_abaixo_do_esperado,qualidade_abaixo_do_esperado,0.9904557
+G207,"Eu, já paguei e até o momento não recebi o produto, estou aguardando, disseram que chegaria até 26/04/18 , mas até o momento nada da entrega.",atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.9964696
+G208,Produto não recomendo não ler em nenhum dispositivo,defeito_ou_avaria,qualidade_abaixo_do_esperado,0.9736212
+G209,Adorei o teclado.,elogio,elogio,0.9976029
+G210,so faltou entregar mais rapido,atraso_ou_nao_entrega,outro,0.98134834
+G211,"Boa tarde, sempre gostei de comprar pelo portal lannister,mais ultimamente tenho tido problemas com a entrega. (area de risco) .por isso peço que reveja na página a opção de retirada na loja.",atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.9925304
+G212,"Não é um produto que chega e é passível de instalação. Sem manual, é necessário entrar em contato com a empreaa fabricante. Um produto caro que exige plataforma Windows para instalação e configuração.",qualidade_abaixo_do_esperado,produto_errado_ou_incompleto,0.9908285
+G213,Não usei está embalado quando precisar doi minha satisfação,outro,atraso_ou_nao_entrega,0.66824836
+G214,Muito. Bom,elogio,elogio,0.9971878
+G215,Muito satisfeita com a compra.,elogio,elogio,0.9976427
+G216,frete muito alto.,outro,outro,0.98007786
+G217,Meu neto adorou!,elogio,elogio,0.9974638
+G218,Achei só muito demorado o prazo para a entrega.,outro,atraso_ou_nao_entrega,0.8627402
+G219,Loja excelente. Cumpre o que anuncia e a promessa contida no anúncio.,elogio,elogio,0.997741
+G220,"O produtor chegou dentro do último prazo que falaram. Pq na primeira página o prazo era de 12 dias, depois aumentou para 1 mes, mas chegou. E o produto é bom, deu super certo na nossa Tv.",atraso_ou_nao_entrega,elogio,0.99305844
+G221,Muito.rop,outro,elogio,0.9960234
+G222,Não recomendo porque recebi o produto incorreto.,produto_errado_ou_incompleto,produto_errado_ou_incompleto,0.99622834
+G223,"Panela boa e resistente, ajuda MUITO!",elogio,elogio,0.99754155
+G224,"para mim essa faixa nao funcionou, mais cada caso e um caso",qualidade_abaixo_do_esperado,defeito_ou_avaria,0.9841516
+G225,Estou esperando o pedido,atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.99605185
+G226,"A loja sim , mais o site me deixou a desejar pois fiz essa compra com vale e não me enviaram um item alegando que não foi autorizado o pagamento se foi confirmado no dia da compra",atendimento_vendedor,atraso_ou_nao_entrega,0.6583067
+G227,"Os produtos foram entregues no prazo, porém dois produtos tiveram a cor e o modelo alterados!",produto_errado_ou_incompleto,defeito_ou_avaria,0.79936916
+G228,Entregue exatamente produto que eu esperava.,elogio,elogio,0.99773043
+G229,Encomendei um modelo de capa e me entregaram outro. Totalmente insatisfeita. Isso é a primeira vez que acontece com uma compra minha.,produto_errado_ou_incompleto,produto_errado_ou_incompleto,0.9966466
+G230,Tira a entrega pelo correio,outro,atraso_ou_nao_entrega,0.94536954
+G231,"O jogo só é bonitinho, pois é extremamente fino e frágil. A entrega foi antes do prazo.",qualidade_abaixo_do_esperado,qualidade_abaixo_do_esperado,0.987496
+G232,"Chegou bem rápido e parece ser bom, só vou descobrir com o uso, a capa para o sofá de 3 lugares veio um pouco menor a largura veio 1,46, mas a de 2 lugares veio no tamanho certo.",qualidade_abaixo_do_esperado,qualidade_abaixo_do_esperado,0.99231344
+G233,Pedi duas prateleiras e veio somente uma sem aviso prévio,produto_errado_ou_incompleto,produto_errado_ou_incompleto,0.9967596
+G234,Comprei 2 unidades e chegou só uma,produto_errado_ou_incompleto,produto_errado_ou_incompleto,0.99640524
+G235,produto e baixa qualidade pelo preço. Não gostei.,qualidade_abaixo_do_esperado,qualidade_abaixo_do_esperado,0.9944971
+G236,Muito bom produto,elogio,elogio,0.99769515
+G237,"Não sei ainda , pós o que eu comprei não chegou",atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.88839513
+G238,Amei!! O perfume é maravilhoso!! Tudo o que eu sempre quis!! Super r,elogio,elogio,0.9976312
+G239,Mto pratico e mto eficiente,elogio,elogio,0.997526
+G240,"Melhor suporte nessa faixa de preço. É a segunda vez que compro, as duas vezes usei com tvs de 43"". Ele deixa pouco espaço na parte traseira, então é bom ver o posicionamento das entradas da tv.",elogio,qualidade_abaixo_do_esperado,0.96028733
+G241,Estou satisfeito,elogio,elogio,0.99770457
+G242,"Gostei muito da pontualidade, da mercadoria,mas infelizmente o produto nao foi entregue todo. Pedi 2 kits e me enviaram só um. Como faço pra receber o restante?",produto_errado_ou_incompleto,produto_errado_ou_incompleto,0.99665797
+G243,NUNCA aconteceu isso antes com relação às minhas compras no e-commerce das Lojas lannister. NUNCA. Ainda não recebi o produto e nem sei se vou receber. Peço entrarem em contato comigo urgente.,atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.99644524
+G244,nunca tive problema,elogio,elogio,0.9784265
+G245,"Desde ontem tentei enviar várias mensagens, sem sucesso. O pedido veio incompleto. Pedi 2 boias para filtro de gravidade,não foram entregues. 2 kits de 3 velas de tripla ação. Veio 1 kit apenas. ????",produto_errado_ou_incompleto,produto_errado_ou_incompleto,0.99668926
+G246,"no site comprei o produto o original embalado, inclusive com o preço maior, porem recebi o produto desembalado, enrolado em plastico bolha muito diferente do original, diferente do que comprei..",produto_errado_ou_incompleto,defeito_ou_avaria,0.93260527
+G247,PRODUTO E ENTREGA EXELENTE,elogio,elogio,0.7640707
+G248,"pedi o cancelamento da compra devido ao prazo de entrega, assim que foi feita. recebi o produto e está aqui ´rpno para devolvr. Como devolver?",atendimento_vendedor,atendimento_vendedor,0.9879248
+G249,A loja e boa porei de todos os produtos que eu comprei só esse deu errado,outro,produto_errado_ou_incompleto,0.93077004
+G250,Lindo o kit. Entrega rápida. RECOMENDO,elogio,elogio,0.9976978
+G251,O produto não funciona conforme o esperado. como áudio entre outros.,defeito_ou_avaria,qualidade_abaixo_do_esperado,0.86585844
+G252,Foi entregue corretamente,elogio,elogio,0.99757344
+G253,"Muito bonito e com ótimo custo benefício, mas veio com algumas costuras soltas",qualidade_abaixo_do_esperado,qualidade_abaixo_do_esperado,0.98546267
+G254,compra perfeita e entrega ok,elogio,elogio,0.99771297
+G255,O produto veio sem nenhum lugar para pôr o sinto de segurança. Na hora da compra não dizia que viria fechado e o consumidor deveria abrir em casa (perigando danificar o produto).,qualidade_abaixo_do_esperado,produto_errado_ou_incompleto,0.66043293
+G256,"Chegou Dentro do Prazo, não veio Amassada. Ainda Não testei mas parece ser muito boa",elogio,elogio,0.9971642
+G257,"O produto novo foi entregue,e recebi um vale no valor e efetuei compra de outros produtos do baratheon.",outro,atendimento_vendedor,0.9155418
+G258,Demorando muito a entrega,atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.996358
+G259,"O produto chegou em ótimo estado, bem embalado e antes do prazo",elogio,elogio,0.9976922
+G260,"Olha , gostei muito das coisas que tem na loja. Pena que a lixeira não foi como eu esperava. Mas é bonita então dei de presente para minha irmã que se mudou agora é",qualidade_abaixo_do_esperado,qualidade_abaixo_do_esperado,0.9848792
+G261,Aguardando o recebimento do produto. Foi entregue parcialmente restando alguns itens.,produto_errado_ou_incompleto,produto_errado_ou_incompleto,0.9915644
+G262,INFORMO QUE NÃO RECEBI MEU PRODUTO E ESTOU MUITO INSATISFEITA,atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.9962368
+G263,Fiz uma compra no mês de Fevereiro de 2018. o prazo informado no site era que a entrega ocorreria até 22/03/2018. Até hoje o produto não chegou na agência do correio. Como devo proceder?,atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.9967263
+G264,"nao recebi Cesta decorativa com trio de bolas qto aos ESPELHOS DECORATIVOS,O PRODUTO NAO É ESPELHO E SIM UM PRODUTO PLASTIFICADO,PROPAGANDA ENGANOSA,QUERIA MEU DINHEIRO DE VOLTA!",produto_errado_ou_incompleto,produto_errado_ou_incompleto,0.9880398
+G265,A caixa danificada colada com fita a apresentação do produto não ficou boa,defeito_ou_avaria,defeito_ou_avaria,0.98401225
+G266,"Recebi o produto errado em minha casa. Já entrei em contato com a baratheon para fazer a troca do produto, a qual falou que em 48h a loja entraria em contato e amanhã vence as 48h",produto_errado_ou_incompleto,produto_errado_ou_incompleto,0.99078816
+G267,Chegou perfeita e antes do prazo..parabens a americana e parceirasss,elogio,elogio,0.9977149
+G268,"SIM REFERENTE AOS CELULARES E A CAPA EM COURO ATENDEU MINHAS EXPECTATIVAS, MAS A PELÍCULA VEIO ERRADA MEU LG É O K10 PRO TELA 5,7MM, A PELÍCULA VEIO PRO K10 NOVO 5,3MM",produto_errado_ou_incompleto,produto_errado_ou_incompleto,0.7846215
+G269,"ótima compra mas o frete nao compensa,pesa no orçamento. devia ter frete grates",elogio,outro,0.97158796
+G270,faltando o meu produto é um guarda roupa e veio faltando o fundo de uma gaveta.,produto_errado_ou_incompleto,produto_errado_ou_incompleto,0.99655604
+G271,"na hota da ocmpra estava escrito que era 30 caixas por 9,90 e só veio 1 e ainda me cobra o frete do dobro do produto quero devolver.",produto_errado_ou_incompleto,produto_errado_ou_incompleto,0.99639183
+G272,"demorou um pouco demais a entrega, já estava apreensiva pq o prazo estava esgotando, no mais adorei o produto",elogio,atraso_ou_nao_entrega,0.99647397
+G273,"HOUVE UM POUCO DE DEMORA, MAS DEU TUDO CERTO, OBRIGADO!",elogio,elogio,0.99313945
+G274,A entrega foi super rápida,elogio,elogio,0.9976707
+G275,ao mantem a temperatura,qualidade_abaixo_do_esperado,outro,0.979618
+G276,"Me senti lesada , o produto vendido é réplica e das piores. Estou aguardando para mandar produto de volta.",qualidade_abaixo_do_esperado,atendimento_vendedor,0.6808457
+G277,"Mas chegou dentro do prazo que foi dado, foi entregue na casa da minha mãe então ainda não vi se o produto veio certo só irei ver no fim do mês mas segundo ela está certo, to torcendo pra que esteja!!",elogio,elogio,0.9767472
+G278,Comprei dois produtos iguais e acabei recebendo só um. O que devo fazer ?,produto_errado_ou_incompleto,produto_errado_ou_incompleto,0.9968195
+G279,Outro produto deveria vir junto ou pelo menos na mesma época,produto_errado_ou_incompleto,produto_errado_ou_incompleto,0.9892541
+G280,Adorei o cobertor. Muito confortável e bom custo benefício.,elogio,elogio,0.99764204
+G281,"produto nao é o q eu queria, nao tem selo do imetro e nao é original, nao gostei mesmo, arrependido",qualidade_abaixo_do_esperado,qualidade_abaixo_do_esperado,0.7512576
+G282,"Comprei dois itens semelhantes (cartuchos de tinta) e a confirmação foi que receberia os dois pela targaryen. Pois bem, um veio de Maringá-PR da USE Toner e o outro, de São José dos Campos-SP da Tonerbrás",outro,produto_errado_ou_incompleto,0.9956393
+G283,"prazo de entrega super rápido. O produto corresponde com o que vi anunciado. O produto foi entregue bem antes do prazo prometido para entrega, apenas 2 dias entre a compra e a entrega..",elogio,elogio,0.99771225
+G284,"óculos lindo, chegou em perfeito estado. Mas não foi entregue dentro do prazo.",atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.9961855
+G285,A mercadoria foi roubada nos correios. Estou aguardando reposição.,atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.9960722
+G286,Adorei comprar com essa loja chegou uma semana antes do prazo eu recomendo,elogio,elogio,0.9976418
+G287,Foi entregue apenas o calar em 02/07/2017. Não recebi a pulseira até esta data.,produto_errado_ou_incompleto,produto_errado_ou_incompleto,0.9951757
+G288,"Houve uma tentativa de entrega fora do horário comercial, não havia mais ninguém no local para receber. O novo prazo dado é hoje e o produto não foi entregue até as 13:00. Minha opinião pode mudar.",atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.9966273
+G289,O produto parece ser outro pela foto,qualidade_abaixo_do_esperado,produto_errado_ou_incompleto,0.98620844
+G290,"Lojista enviou o produto na própria embalagem, virada do avesso - apresentação muito grosseira. Eu ia dar de presente e... não tive como fazê-lo! Tampa levemente amassada.",defeito_ou_avaria,defeito_ou_avaria,0.96187145
+G291,nao recebi minha compra,atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.9963642
+G292,Adorava comprar neste site!!$,elogio,elogio,0.99679023
+G293,"So foi 2 intem luva e toca. Falta colete tático e não tem código pra acompanha o intem, so informa que produto foi entregue.",produto_errado_ou_incompleto,produto_errado_ou_incompleto,0.99655163
+G294,Adorei surpe indico.,elogio,elogio,0.99766386
+G295,"A entrega chegou dentro do prazo contudo com uma certa demora, pois quando a entrega era feita pela a loja Americana o produto chegava bem antes da data prevista, acredito que da forma que esta o site",elogio,elogio,0.9811881
+G296,Chegou dentro do prazo de entrega e eu adorei o produto.,elogio,elogio,0.99770504
+G297,"Fiz a compra de 02 bases e até o momento recebi somente 01. Acredito que se os produtos vem do mesmo local e a compra foi feita junta, a entrega também será realizada junta. Estou aguardando o contato",produto_errado_ou_incompleto,produto_errado_ou_incompleto,0.9967309
+G298,produto entregue o que é anunciado e dentro do prazo.,elogio,elogio,0.9977144
+G299,"Ainda faltam me entrega um produto ,quando chega eu avilo melhor .",atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.9955302
+G300,ACHO QUE A DEMORA FOI A GREVE DOS CORREIOS,atraso_ou_nao_entrega,outro,0.79212064
+G301,Chegou no prazo e conforme anunciado!,elogio,elogio,0.9977053
+G302,Ótimo produto entregue no prazo,elogio,elogio,0.9976628
+G303,"O vendedor compre com o que diz no site, o produto chegou dentro do prazo e e de ótima qualidade.",elogio,elogio,0.99767405
+G304,Qualidade abaixo do esperado!,qualidade_abaixo_do_esperado,qualidade_abaixo_do_esperado,0.9324245
+G305,A Loja não se responsabiliza pela transferência da compra. Não vale a pena.,atendimento_vendedor,atendimento_vendedor,0.97789943
+G306,"Preciso devolver o extensor, porque não coube para fazer o encaixe no meu portão... eu havia comprado no mesmo site e tomei o cuidado de pegar no mesmo modelo, mas era totalmente diferente. o que faço",produto_errado_ou_incompleto,qualidade_abaixo_do_esperado,0.95063955
+G307,Estou satisfeito com o processo de compra mas não com o produto. O fone de ouvido é de má qualidade e o produto tem um manual de instruções muito ruim.,qualidade_abaixo_do_esperado,qualidade_abaixo_do_esperado,0.93704945
+G308,Comprei há maia de 20 dias e não recebi produto e tão pouco me deram alguma satisfação. Já reclamei com as lojas lannister mas até agora ninguém me deu uma posição. UM ABSURDOOO!!!,atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.9963206
+G309,"Consta que meu pedido foi entregue dia 20/12, e não foi, gostaria de saber o que vocês vão fazer agora. No aguardo",atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.9956018
+G310,Só não vou pedir pra trocar porque eu vo ter o trabalho de ir no correio! O produto veio com uma estampa de caveira mexicana que não constava na foto eu queria sem essa estampa mais infelizmente .,qualidade_abaixo_do_esperado,produto_errado_ou_incompleto,0.99600214
+G311,JÁ ESCREVI EM OUTRO LINK QUE NÃO RECEBI OS ADESIVOS! E VOCÊS ENVIARAM EMAIL FALANDO QUE ME FARIAM O ESTORNO DO VALOR.,atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.990725
+G312,So não me avisarão que veria pelo correios.,atendimento_vendedor,atraso_ou_nao_entrega,0.9718412
+G313,Até agora esperando chegar e nada solicito um esclarecimento e resolução o prazo de entrega expirou preciso do produto urgente,atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.9961952
+G314,Recebi o produto no prazo. Fiquei muito satisfeito.,elogio,elogio,0.9976503
+G315,Acredito q seja bom . gosto muito de genacol . já tomava os comprimidos,elogio,outro,0.8053105
+G316,Não gostei do material nem do acabamento.,qualidade_abaixo_do_esperado,qualidade_abaixo_do_esperado,0.99434066
+G317,Chegou corretamente mas atrasou. O produto é muito bom.,atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.99271905
+G318,"MUITO BOM, FOI ENTREGUE ANTES DO PRAZO PREVISTO. ADOREI O PRODUTO.",elogio,elogio,0.99765116
+G319,"Pedi na cor Bege e veio marrom, mas tudo bem, estamos contentes mesmo assim, porém, na proxima eu devolvo.",produto_errado_ou_incompleto,produto_errado_ou_incompleto,0.99639314
+G320,o unico prolema q o produto não veio com manual de instruções,produto_errado_ou_incompleto,produto_errado_ou_incompleto,0.99508494
+G321,Comprei o produto porem ouve uma devolução pois não era o que eu queria. Ai solicitei o cancelamento da compra.,atendimento_vendedor,atendimento_vendedor,0.44197702
+G322,recebi antes do prazo e em ótimas condições,elogio,elogio,0.9976525
+G323,Produto atendido conforme divulgado.,elogio,elogio,0.9977126
+G324,"Entrega super rápida, parabéns!",elogio,elogio,0.9976446
+G325,Ótimo adorei o produto.,elogio,elogio,0.9976307
+G326,gosto de comprar neste sait fico satifeita e acho que é mais barato que os outros.,elogio,elogio,0.9746041
+G327,bastante rapido,elogio,outro,0.8551537
+G328,gostei e o atraso foi por conta dos correios aqui,atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.996185
+G329,DENTRO DA EXPECTATIVA. AINDA NAO FOI INSTALADA.,elogio,qualidade_abaixo_do_esperado,0.88943225
+G330,"Brincos de qualidade, bonito...entrega rápida...tudo Ok...",elogio,elogio,0.9977189
+G331,"Comprei dois jogos de susplat, mas veio apenas um. Qualidade do tecido horrível. Quero exercer direito de arrependimento.",produto_errado_ou_incompleto,produto_errado_ou_incompleto,0.9959837
+G332,"A terceirizacão das entregas esta comprometendo o nome da loja, pela demora na efetivacão da entrega",atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.99038374
+G333,"Entrega rapida, as toalhas sao boas pelo valor",elogio,elogio,0.9976922
+G334,A entrega foi rápida....só não foi 100% pq a cascata veio com uma mancha bem em cima da curva da cascata.,defeito_ou_avaria,defeito_ou_avaria,0.9868177
+G335,Não usei ainda mas chegou antes do prazo,elogio,elogio,0.99770665
+G336,"A foto estava errada o produto que comprei foi pela foto, enviaram outro. Preciso trocar",produto_errado_ou_incompleto,produto_errado_ou_incompleto,0.9964541
+G337,Comprei um relógio branco me mandaram preto,produto_errado_ou_incompleto,produto_errado_ou_incompleto,0.99595684
+G338,"nao posso avaliar, sem ter recebido",atraso_ou_nao_entrega,outro,0.94584346
+G339,Só acho errado vocês cobrarem o frete e eu ter que ter ido retirar nos correios.,atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.99593914
+G340,quando comprei o produto a entrega era de 15 dias uteis ja tem quase trinta ainda naõ recebi,atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.99616736
+G341,UM DOS PRODUTOS (ENTREGA02) COMPRADOS NESTE PEDIDO NAO RECEBI AINDA E OUTRO (ENTREGA01) RECEBI EMAIL QUE ESTA COM DIFICULDADES NA ENTREGA E NÃO TIVE MAIS NOTICIAS,atraso_ou_nao_entrega,produto_errado_ou_incompleto,0.99656975
+G342,produto chegou pela metade,produto_errado_ou_incompleto,atraso_ou_nao_entrega,0.9741511
+G343,Só achei o material fraco,qualidade_abaixo_do_esperado,qualidade_abaixo_do_esperado,0.9939871
+G344,"Produto solto dentro de uma caixa de papelão sem nenhum tipo de enchimento amortecedor ou protetor. Felizmente não sofreu danos, mas deixou a desejar no aspecto embalagem.",elogio,qualidade_abaixo_do_esperado,0.99080867
+G345,Produto chegou antes do prometido .,elogio,elogio,0.99771273
+G346,Ainda não recebi. Já paguei! Absurdo! Falta de consideração pelo consumidor ... Procon,atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.996191
+G347,Adorei e super recomendo,elogio,elogio,0.99770075
+G348,"No geral eu gostei, porem o produto não veio exatamente na cor que aparece no site e ele veio enrolado em plástico bolha sem caixa própria do Relório",produto_errado_ou_incompleto,produto_errado_ou_incompleto,0.557006
+G349,estou gostando,elogio,elogio,0.9975915
+G350,"Ainda não recebi o produto previsto para o dia 28/08/2017, estou insatisfeito e gostaria do provido.",atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.9964551
+G351,estamos testando,outro,outro,0.9710462
+G352,"muito ruim, atendimento somente eletronico, vc é obrigado a esperar pele boa vontade da loja para entrar em contato.",atendimento_vendedor,atendimento_vendedor,0.9403826
+G353,empresa super competente entregou bem antes do prazo todos os produtos em ótimo estado,elogio,elogio,0.99762446
+G354,"tecido de baixa qualidade, esperava mais.",qualidade_abaixo_do_esperado,qualidade_abaixo_do_esperado,0.99470115
+G355,"Entregou no prazo certo, fiquei feliz com a compra que fiz",elogio,elogio,0.99767166
+G356,"Produto show,eh o q eu esperava",elogio,elogio,0.9977144
+G357,Ainda não recebi. Estou aguardando a entrega do produto ou o cancelamento da compra.,atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.99654275
+G358,"Chegou tudo perfeito, muito antes do prazo, porém o pendente tem uma peça de plástico pequena, aquela que liga na caixa de luz, a rosca é curta.",qualidade_abaixo_do_esperado,qualidade_abaixo_do_esperado,0.9879953
+G359,A entrega foi de troca do prazo e o produto estava bem embalado. Espero que funcione para o tratamento do alcoolismo.,elogio,elogio,0.99512404
+G360,Produto entregue no prazo e de acordo.,elogio,elogio,0.9977071
+G361,Bom dia. Na verdade queria o mesmo medicamento só que com laranja amarga que já havia tomado.,produto_errado_ou_incompleto,produto_errado_ou_incompleto,0.9620418
+G362,"Sempre comprei na lannister e não tive problemas,mas dessa vez não recebi o produto.",atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.9955324
+G363,O mause recebido não chegou na caixa original do fabricante e em um plástico aberto. Demorou para chegar e não obtivemos resposta. Está em funcionamento e espero que seja original e não dê problema.,atraso_ou_nao_entrega,produto_errado_ou_incompleto,0.9775603
+G364,"Boa tarde, recebi o produto, porém está com defeito no cortador de massa, não está cortando corretamente !",defeito_ou_avaria,defeito_ou_avaria,0.98955524
+G365,"Falta entregar o resto dos produtos, dessa vez não demorou, muito da primeira vez demorou um mes e 10. ( vcs deveriam abaixar mais frete de vcs que é muito caro. Obrigada",produto_errado_ou_incompleto,produto_errado_ou_incompleto,0.77994996
+G366,Produto veio certo como vi na foto e chegou antes do prazo. Gostei bastante!!!,elogio,elogio,0.9976955
+G367,Estou aguardando para ver se realmente supera as expectativas.,outro,outro,0.798755
+G368,"apenas recebi 2 cadeiras e comprei 3, gostaria de saber como faço para receber a terceira",produto_errado_ou_incompleto,produto_errado_ou_incompleto,0.99671835
+G369,Comprei os bonecos achando que era mini figuras lego original e quando chegou o produto era falsificado daqueles que compramos em camelôs não achei que a stark tinha parceiro desse tipo lamentável,qualidade_abaixo_do_esperado,produto_errado_ou_incompleto,0.989391
+G370,"produto nao funciona,, nao consegui entrar conta por telefone da empresa que me vendeu, fala telefone nao existente. estragou minha impressora o produto q foi me vendido.",defeito_ou_avaria,defeito_ou_avaria,0.98879737
+G371,sempre compro nas lojas lannister e sempre muito bem atendida com os meus produtos entregue em dia,elogio,elogio,0.99758995
+G372,Lindo o kit. Um pouco frágil.,qualidade_abaixo_do_esperado,qualidade_abaixo_do_esperado,0.9914078
+G373,"Eu gostei muito do produto ,e de ótima qualidade.",elogio,elogio,0.99768806
+G374,"Na descrição do produto no site da lannister havia informação que Painel tamanho 3,05 metros de largura x 2,40 metros de altura. Na embalagem contem 03 rolos de 102 cm de largura , foi o que comprei",outro,qualidade_abaixo_do_esperado,0.9671907
+G375,"trocaram o produto sem me avisar. veio um bilhete junto com o produto entregue, avisando da troca e se disponibilizando a enviar o correto quando voltasse ao estoque. Imagina o trabalho que eu teria.",produto_errado_ou_incompleto,produto_errado_ou_incompleto,0.5511554
+G376,"recomendo,porém o produto veio com remendos,espero que não seja corriqueiro",defeito_ou_avaria,defeito_ou_avaria,0.98273796
+G377,"Produto conforme o descrito e a foto, porém entregue fora do prazo estipulado por problemas no correio",atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.996518
+G378,Aguardando receber,atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.996363
+G379,Oi. Ate. Jone. Nso. Fou. Entregue. O. Meu. Pedido. Estou. Muiiiito. Xateada pos. Js. Foi. Ate. Feito. O. Pagamento. Ese. Mes. No. Cartao mas. Ate. O. Exato. Momento. Nao. Chegou. Ate. Mim. Como. Poss.,atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.9961746
+G380,a capa muito boa mas a pelicula horrivel,qualidade_abaixo_do_esperado,qualidade_abaixo_do_esperado,0.99286664
+G381,"os produtos são bons, porem eu paguei por uma mercadoria e venho outra,pedi um jogo de banho com 7 peças e venho com cinco, jogo de cama com 7 e venho com 4.",produto_errado_ou_incompleto,produto_errado_ou_incompleto,0.9967158
+G382,"Recebi o produto corretamente, mas não pude avaliar sua eficácia.",elogio,outro,0.47665828
+G383,"encomendei bolas de cor vermelha, recebi bolas cor laranja, não devolvi por causa da urgência pelo produto.",produto_errado_ou_incompleto,produto_errado_ou_incompleto,0.9963558
+G384,Ainda n recebi a entrega,atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.9964665
+G385,o produto não era o que eu esperava,qualidade_abaixo_do_esperado,qualidade_abaixo_do_esperado,0.9943634
+G386,"O cartucho está estourado (vazando), já contatei a empresa. Foi-me informado que haverá a troca!",defeito_ou_avaria,defeito_ou_avaria,0.9886072
+G387,Não gruda muito😩,qualidade_abaixo_do_esperado,qualidade_abaixo_do_esperado,0.5270714
+G388,recebi somente o cobertor os kits de endredon nao recei,produto_errado_ou_incompleto,produto_errado_ou_incompleto,0.99662435
+G389,bom dia....ainda não recebi o carrinho ate a data presente.. estou no aguardo,atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.99611807
+G390,"Recomendo, produto ótimo e prazo de entrega cumprido. Estou muito feliz com a compra.",elogio,elogio,0.99769825
+G391,O produto está com um barulho estranho... ainda vendo se isso é normal...,defeito_ou_avaria,defeito_ou_avaria,0.98105866
+G392,Comprei outros produtos e não tive problemas acredito que foi a falta do produto no estoque,atendimento_vendedor,atendimento_vendedor,0.9686798
+G393,Então... Fiquei surpresa em receber a mercadoria antes do prazo previsto para entrega. Estou muito satisfeita com os serviços prestados.,elogio,elogio,0.99767655
+G394,A minha compra ainda não chegou. E nada de a loja entrar em contato para explicar o motivo...,atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.9963973
+G395,Não tive nenhum problema o produto chegou antes do prazo.,elogio,elogio,0.99771655
+G396,"Não foi entregue o produto que solicitei. Entrei em contato com as lannister e estou aguardando retorno para a troca pelo produto correto, porém ainda não tive retorno das lannister e já está fora d",produto_errado_ou_incompleto,atraso_ou_nao_entrega,0.97226655
+G397,"Bom dia, o frete foi o dobro do valor do produto e o demorou quase dois meses para ser entregue, não vou mais comprar desse fornecedor e vou tomar mais cuidado com os periodos e valores do frente.",atraso_ou_nao_entrega,atraso_ou_nao_entrega,0.602237
+G398,"Comprei dois produtos na loja: uma mochila e cinco bonecos... Entretanto, recebi apenas a mochila. Além disso, a entrega toda aparece no site com o status de entregue.",produto_errado_ou_incompleto,produto_errado_ou_incompleto,0.99681216
+G399,O produto chegou antes da data prevista. Amei !,elogio,elogio,0.99766374
+G400,"Já pedi minha devolução e ate agora n recebi retorno, isso tem mais de 3 dias e me deram prazo de 48hs. Quero meu reembolso",atendimento_vendedor,atendimento_vendedor,0.9754435

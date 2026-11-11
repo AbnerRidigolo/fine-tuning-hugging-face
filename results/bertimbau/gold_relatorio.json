@@ -1,0 +1,57 @@
+{
+  "atraso_ou_nao_entrega": {
+    "precision": 0.8571428571428571,
+    "recall": 0.8888888888888888,
+    "f1-score": 0.8727272727272727,
+    "support": 81.0
+  },
+  "produto_errado_ou_incompleto": {
+    "precision": 0.7948717948717948,
+    "recall": 0.8985507246376812,
+    "f1-score": 0.8435374149659864,
+    "support": 69.0
+  },
+  "defeito_ou_avaria": {
+    "precision": 0.8888888888888888,
+    "recall": 0.75,
+    "f1-score": 0.8135593220338984,
+    "support": 32.0
+  },
+  "qualidade_abaixo_do_esperado": {
+    "precision": 0.7692307692307693,
+    "recall": 0.8163265306122449,
+    "f1-score": 0.7920792079207921,
+    "support": 49.0
+  },
+  "atendimento_vendedor": {
+    "precision": 0.8666666666666667,
+    "recall": 0.7647058823529411,
+    "f1-score": 0.8125,
+    "support": 17.0
+  },
+  "elogio": {
+    "precision": 0.9752066115702479,
+    "recall": 0.9076923076923077,
+    "f1-score": 0.9402390438247012,
+    "support": 130.0
+  },
+  "outro": {
+    "precision": 0.5652173913043478,
+    "recall": 0.5909090909090909,
+    "f1-score": 0.5777777777777777,
+    "support": 22.0
+  },
+  "accuracy": 0.855,
+  "macro avg": {
+    "precision": 0.8167464256679388,
+    "recall": 0.8024390607275935,
+    "f1-score": 0.8074885770357755,
+    "support": 400.0
+  },
+  "weighted avg": {
+    "precision": 0.8608911321440965,
+    "recall": 0.855,
+    "f1-score": 0.8562386425627199,
+    "support": 400.0
+  }
+}
