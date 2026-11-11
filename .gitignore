@@ -12,3 +12,4 @@ mlflow.db
 models/
 dist/
 results/_tmp_import/
+kaggle/
