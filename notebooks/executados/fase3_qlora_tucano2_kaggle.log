@@ -1,0 +1,50 @@
+[{"stream_name":"stderr","time":11.752314145,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":11.752367151,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":11.752372116,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":11.752374883,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stderr","time":12.481703286,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":12.481733204,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":12.481738498,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":12.481742056,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stdout","time":38.871300496,"data":"Note: you may need to restart the kernel to use updated packages.\n"}
+,{"stream_name":"stdout","time":91.059536196,"data":"torch 2.11.0+cu130 | transformers 5.22.2 | peft 0.21.2 | bitsandbytes 0.50.2 | GPU: Tesla T4\n"}
+,{"stream_name":"stdout","time":92.05292216,"data":"4250 750 400\n"}
+,{"stream_name":"stderr","time":92.329826468,"data":"Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.\n"}
+,{"stream_name":"stderr","time":92.329889183,"data":"\n"}
+,{"stream_name":"stderr","time":92.329896067,"data":"Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.\n"}
+,{"stream_name":"stdout","time":94.340632317,"data":"tokens por comentário: p50=17 p95=47 p99=54 max=81\n"}
+,{"stream_name":"stderr","time":117.998129164,"data":"[transformers] \u001b[1mQwen3ForSequenceClassification LOAD REPORT\u001b[0m from: Polygl0t/Tucano2-qwen-1.5B-Instruct\n"}
+,{"stream_name":"stderr","time":117.998185965,"data":"Key          | Status  | \n"}
+,{"stream_name":"stderr","time":117.998193647,"data":"-------------+---------+-\n"}
+,{"stream_name":"stderr","time":117.998199653,"data":"score.weight | MISSING | \n"}
+,{"stream_name":"stderr","time":117.998205459,"data":"\n"}
+,{"stream_name":"stderr","time":117.998210774,"data":"Notes:\n"}
+,{"stream_name":"stderr","time":117.998215722,"data":"- MISSING:\tthose params were newly initialized because missing from the checkpoint. Consider training on your downstream task.\n"}
+,{"stream_name":"stderr","time":117.998221254,"data":"\n"}
+,{"stream_name":"stderr","time":117.998225879,"data":"[transformers] \u001b[1mQwen3ForSequenceClassification LOAD REPORT\u001b[0m from: Polygl0t/Tucano2-qwen-1.5B-Instruct\n"}
+,{"stream_name":"stderr","time":117.998236493,"data":"Key          | Status  | \n"}
+,{"stream_name":"stderr","time":117.998240241,"data":"-------------+---------+-\n"}
+,{"stream_name":"stderr","time":117.99824343,"data":"score.weight | MISSING | \n"}
+,{"stream_name":"stderr","time":117.998246645,"data":"\n"}
+,{"stream_name":"stderr","time":117.998249836,"data":"Notes:\n"}
+,{"stream_name":"stderr","time":117.998253441,"data":"- MISSING:\tthose params were newly initialized because missing from the checkpoint. Consider training on your downstream task.\n"}
+,{"stream_name":"stdout","time":118.533226782,"data":"trainable params: 17,446,912 || all params: 1,527,534,592 || trainable%: 1.1422\n"}
+,{"stream_name":"stdout","time":975.794188645,"data":"época 1: F1 macro val=0.6860  loss val=1.3030\n"}
+,{"stream_name":"stdout","time":975.794257953,"data":"época 2: F1 macro val=0.8089  loss val=0.7958\n"}
+,{"stream_name":"stdout","time":975.794262601,"data":"época 3: F1 macro val=0.8109  loss val=1.0989\n"}
+,{"stream_name":"stdout","time":975.794265088,"data":"época 4: F1 macro val=0.8347  loss val=1.3530\n"}
+,{"stream_name":"stdout","time":975.794267322,"data":"época 5: F1 macro val=0.8429  loss val=1.3832\n"}
+,{"stream_name":"stdout","time":975.794304488,"data":"melhor checkpoint: /kaggle/working/saida_fase3/checkpoints/checkpoint-665 | treino (s): 857 | pico de memória GPU no treino (GB): 13.29\n"}
+,{"stream_name":"stdout","time":987.700861233,"data":"validacao {'validacao_f1_macro': 0.8429, 'validacao_acuracia': 0.8987, 'validacao_f1_atraso_ou_nao_entrega': 0.9097, 'validacao_f1_produto_errado_ou_incompleto': 0.8906, 'validacao_f1_defeito_ou_avaria': 0.9048, 'validacao_f1_qualidade_abaixo_do_esperado': 0.825, 'validacao_f1_atendimento_vendedor': 0.6944, 'validacao_f1_elogio': 0.9716, 'validacao_f1_outro': 0.7042}\n"}
+,{"stream_name":"stdout","time":995.14518082,"data":"gold {'gold_f1_macro': 0.8217, 'gold_acuracia': 0.875, 'gold_f1_atraso_ou_nao_entrega': 0.9157, 'gold_f1_produto_errado_ou_incompleto': 0.869, 'gold_f1_defeito_ou_avaria': 0.8333, 'gold_f1_qualidade_abaixo_do_esperado': 0.8041, 'gold_f1_atendimento_vendedor': 0.8125, 'gold_f1_elogio': 0.9457, 'gold_f1_outro': 0.5714}\n"}
+,{"stream_name":"stdout","time":1043.076081274,"data":"{'gold_latencia_gpu_ms': 115.24, 'pico_memoria_gpu_treino_gb': 13.29, 'memoria_modelo_4bit_gb': 1.1, 'tamanho_adaptador_mb': 72.48}\n"}
+,{"stream_name":"stdout","time":1046.435654298,"data":"pronto: /kaggle/working/saida_fase3.zip\n"}
+,{"stream_name":"stderr","time":1051.886457983,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":1051.886499395,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":1052.103959146,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":1052.103985725,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":1052.942210546,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to notebook\n"}
+,{"stream_name":"stderr","time":1053.034660307,"data":"[NbConvertApp] Writing 120009 bytes to __notebook__.ipynb\n"}
+,{"stream_name":"stderr","time":1055.542980924,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":1056.151639899,"data":"[NbConvertApp] Writing 415233 bytes to __results__.html\n"}
+]
