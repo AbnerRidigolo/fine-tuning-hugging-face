@@ -148,7 +148,7 @@ def main() -> None:
         if "concordancia_cpu_vs_gpu" in t:
             r.append(f"Fidelidade do Tucano2 mesclado em CPU: concordância de {t['concordancia_cpu_vs_gpu']:.1%} com o "
                      f"modelo em 4 bits; F1 macro {t['f1_macro_cpu_mesclado_fp32']:.3f} (CPU) vs "
-                     f"{t['f1_macro_gpu_4bit']:.3f} (GPU 4 bits, local).\n")
+                     f"{t['f1_macro_gpu_4bit']:.3f} (GPU 4 bits), ambos medidos nesta mesma sessão.\n")
     r.append("\n## Diferenças de F1 macro (bootstrap pareado)\n")
     rot = {"bertimbau_menos_baseline_tfidf_lr": "BERTimbau − Baseline",
            "qlora_tucano2_1.5b_menos_baseline_tfidf_lr": "Tucano2 − Baseline",

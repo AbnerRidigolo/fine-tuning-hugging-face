@@ -1,0 +1,144 @@
+{
+  "n": 400,
+  "metricas": {
+    "baseline_tfidf_lr": {
+      "f1_macro": 0.7602564615242489,
+      "acuracia": 0.8125,
+      "f1_atraso_ou_nao_entrega": 0.8301886792452831,
+      "f1_produto_errado_ou_incompleto": 0.8368794326241135,
+      "f1_defeito_ou_avaria": 0.7692307692307693,
+      "f1_qualidade_abaixo_do_esperado": 0.7391304347826086,
+      "f1_atendimento_vendedor": 0.7428571428571429,
+      "f1_elogio": 0.8796992481203008,
+      "f1_outro": 0.5238095238095238,
+      "erros": 75,
+      "conf_media_erros": 0.5440921313105608,
+      "conf_media_acertos": 0.8154489102918698,
+      "erros_conf_ge_095": 1,
+      "ece": 0.05961019609814957
+    },
+    "bertimbau": {
+      "f1_macro": 0.8074885770357755,
+      "acuracia": 0.855,
+      "f1_atraso_ou_nao_entrega": 0.8727272727272727,
+      "f1_produto_errado_ou_incompleto": 0.8435374149659864,
+      "f1_defeito_ou_avaria": 0.8135593220338984,
+      "f1_qualidade_abaixo_do_esperado": 0.7920792079207921,
+      "f1_atendimento_vendedor": 0.8125,
+      "f1_elogio": 0.9402390438247012,
+      "f1_outro": 0.5777777777777777,
+      "erros": 58,
+      "conf_media_erros": 0.8995095336206896,
+      "conf_media_acertos": 0.9728182552339182,
+      "erros_conf_ge_095": 33,
+      "ece": 0.11295264280000014
+    },
+    "qlora_tucano2_1.5b": {
+      "f1_macro": 0.8216786025792038,
+      "acuracia": 0.875,
+      "f1_atraso_ou_nao_entrega": 0.9156626506024096,
+      "f1_produto_errado_ou_incompleto": 0.8689655172413793,
+      "f1_defeito_ou_avaria": 0.8333333333333334,
+      "f1_qualidade_abaixo_do_esperado": 0.8041237113402062,
+      "f1_atendimento_vendedor": 0.8125,
+      "f1_elogio": 0.9457364341085271,
+      "f1_outro": 0.5714285714285714,
+      "erros": 50,
+      "conf_media_erros": 0.8926505424,
+      "conf_media_acertos": 0.9863831209428572,
+      "erros_conf_ge_095": 29,
+      "ece": 0.10035585972499993
+    }
+  },
+  "bootstrap": {
+    "baseline_tfidf_lr": {
+      "ic95": [
+        0.7026173028576128,
+        0.807552591317197
+      ]
+    },
+    "bertimbau": {
+      "ic95": [
+        0.7521509201884323,
+        0.8483221109769932
+      ]
+    },
+    "qlora_tucano2_1.5b": {
+      "ic95": [
+        0.7688939249697495,
+        0.8654251779440505
+      ]
+    },
+    "diferencas": {
+      "bertimbau_menos_baseline_tfidf_lr": {
+        "observada": 0.04723211551152662,
+        "ic95": [
+          -0.008928535655515895,
+          0.10479856543275573
+        ],
+        "prob_maior_que_zero": 0.9485
+      },
+      "qlora_tucano2_1.5b_menos_baseline_tfidf_lr": {
+        "observada": 0.061422141054954915,
+        "ic95": [
+          0.014266521910863545,
+          0.10769901147984344
+        ],
+        "prob_maior_que_zero": 0.994
+      },
+      "qlora_tucano2_1.5b_menos_bertimbau": {
+        "observada": 0.014190025543428297,
+        "ic95": [
+          -0.034327969688000684,
+          0.062422406422236
+        ],
+        "prob_maior_que_zero": 0.7305
+      }
+    }
+  },
+  "latencia_tamanho": {
+    "hardware": {
+      "cpu": "Intel(R) Xeon(R) CPU @ 2.00GHz (4 CPUs lógicas)",
+      "torch_threads_cpu": 2,
+      "gpu": "Tesla T4",
+      "torch": "2.11.0+cu130",
+      "n_textos": 400,
+      "aquecimento": 10,
+      "protocolo": "lote de 1, tokenização incluída, cada chamada cronometrada; mediana e p95 em ms",
+      "plataforma": "Linux-6.18.55+-x86_64-with-glibc2.39"
+    },
+    "baseline_tfidf_lr": {
+      "gpu_ms": null,
+      "disco_mb": 2.013568878173828,
+      "cpu_ms": 2.2254945000099724,
+      "cpu_ms_p95": 2.614773750022436,
+      "cpu_ms_media": 2.2635612225016644
+    },
+    "bertimbau": {
+      "disco_mb": 416.2000207901001,
+      "gpu_ms": 7.278447000004462,
+      "gpu_ms_p95": 8.16874019998579,
+      "gpu_ms_media": 7.37345067999982,
+      "cpu_ms": 61.232027500011554,
+      "cpu_ms_p95": 89.68817599998145,
+      "cpu_ms_media": 64.07320268499802
+    },
+    "qlora_tucano2_1.5b": {
+      "disco_adaptador_mb": 66.60561752319336,
+      "disco_base_mb": 2880.2702407836914,
+      "disco_mb": 2946.8758583068848,
+      "gpu_ms": 99.01414399999453,
+      "gpu_ms_p95": 105.15829279995897,
+      "gpu_ms_media": 99.79865769499922,
+      "gpu_memoria_inferencia_gb": 1.0045299530029297,
+      "cpu_ms": 963.0347059999735,
+      "cpu_ms_p95": 1272.6148848500202,
+      "cpu_ms_media": 945.4029120000015,
+      "f1_macro_gpu_4bit": 0.8216786025792038,
+      "f1_macro_cpu_mesclado_fp32": 0.8109017229452258,
+      "concordancia_cpu_vs_gpu": 0.9525
+    }
+  },
+  "n_discordancias": 85,
+  "n_todos_erram": 28
+}

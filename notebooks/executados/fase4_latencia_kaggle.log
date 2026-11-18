@@ -1,0 +1,131 @@
+[{"stream_name":"stderr","time":8.650097045,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":8.650134007,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":8.650139678,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":8.650143175,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stderr","time":9.278112965,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":9.278148605,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":9.278154317,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":9.2781586,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stdout","time":31.44891953,"data":"Note: you may need to restart the kernel to use updated packages.\n"}
+,{"stream_name":"stdout","time":32.464297277,"data":"Note: you may need to restart the kernel to use updated packages.\n"}
+,{"stream_name":"stdout","time":35.964164014,"data":"['data', 'models', 'src'] ['baseline_tfidf_lr', 'bertimbau', 'qlora_tucano2_1.5b']\n"}
+,{"stream_name":"stdout","time":46.412129812,"data":"2.11.0+cu130 Tesla T4 | CPUs: 4 | threads torch: 2\n"}
+,{"stream_name":"stdout","time":49.278998804,"data":"medindo baseline_tfidf_lr...\n"}
+,{"stream_name":"stdout","time":50.388596156,"data":"{\n"}
+,{"stream_name":"stdout","time":50.388618228,"data":"  \"gpu_ms\": null,\n"}
+,{"stream_name":"stdout","time":50.388636504,"data":"  \"disco_mb\": 2.013568878173828,\n"}
+,{"stream_name":"stdout","time":50.388642391,"data":"  \"cpu_ms\": 2.2254945000099724,\n"}
+,{"stream_name":"stdout","time":50.388646568,"data":"  \"cpu_ms_p95\": 2.614773750022436,\n"}
+,{"stream_name":"stdout","time":50.388651117,"data":"  \"cpu_ms_media\": 2.2635612225016644\n"}
+,{"stream_name":"stdout","time":50.388655711,"data":"}\n"}
+,{"stream_name":"stdout","time":50.389382774,"data":"medindo bertimbau...\n"}
+,{"stream_name":"stdout","time":104.642597533,"data":"{\n"}
+,{"stream_name":"stdout","time":104.642649315,"data":"  \"disco_mb\": 416.2000207901001,\n"}
+,{"stream_name":"stdout","time":104.642657404,"data":"  \"gpu_ms\": 7.278447000004462,\n"}
+,{"stream_name":"stdout","time":104.64266363,"data":"  \"gpu_ms_p95\": 8.16874019998579,\n"}
+,{"stream_name":"stdout","time":104.642669681,"data":"  \"gpu_ms_media\": 7.37345067999982,\n"}
+,{"stream_name":"stdout","time":104.642674764,"data":"  \"cpu_ms\": 61.232027500011554,\n"}
+,{"stream_name":"stdout","time":104.642679744,"data":"  \"cpu_ms_p95\": 89.68817599998145,\n"}
+,{"stream_name":"stdout","time":104.642684739,"data":"  \"cpu_ms_media\": 64.07320268499802\n"}
+,{"stream_name":"stdout","time":104.642689685,"data":"}\n"}
+,{"stream_name":"stdout","time":104.644513604,"data":"medindo qlora_tucano2_1.5b...\n"}
+,{"stream_name":"stderr","time":110.200357115,"data":"Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.\n"}
+,{"stream_name":"stderr","time":110.200382992,"data":"\n"}
+,{"stream_name":"stderr","time":110.200388177,"data":"Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.\n"}
+,{"stream_name":"stderr","time":132.632574485,"data":"[transformers] \u001b[1mQwen3ForSequenceClassification LOAD REPORT\u001b[0m from: /root/.cache/huggingface/hub/models--Polygl0t--Tucano2-qwen-1.5B-Instruct/snapshots/82b7b2b2eb06a4c24f4164744cbb63f23d336e8f\n"}
+,{"stream_name":"stderr","time":132.632624303,"data":"Key          | Status  | \n"}
+,{"stream_name":"stderr","time":132.632658435,"data":"-------------+---------+-\n"}
+,{"stream_name":"stderr","time":132.632662877,"data":"score.weight | MISSING | \n"}
+,{"stream_name":"stderr","time":132.632666143,"data":"\n"}
+,{"stream_name":"stderr","time":132.632669318,"data":"Notes:\n"}
+,{"stream_name":"stderr","time":132.632672565,"data":"- MISSING:\tthose params were newly initialized because missing from the checkpoint. Consider training on your downstream task.\n"}
+,{"stream_name":"stderr","time":132.632676296,"data":"\n"}
+,{"stream_name":"stderr","time":132.63267948,"data":"[transformers] \u001b[1mQwen3ForSequenceClassification LOAD REPORT\u001b[0m from: /root/.cache/huggingface/hub/models--Polygl0t--Tucano2-qwen-1.5B-Instruct/snapshots/82b7b2b2eb06a4c24f4164744cbb63f23d336e8f\n"}
+,{"stream_name":"stderr","time":132.632683343,"data":"Key          | Status  | \n"}
+,{"stream_name":"stderr","time":132.632686507,"data":"-------------+---------+-\n"}
+,{"stream_name":"stderr","time":132.632689678,"data":"score.weight | MISSING | \n"}
+,{"stream_name":"stderr","time":132.632692887,"data":"\n"}
+,{"stream_name":"stderr","time":132.632695967,"data":"Notes:\n"}
+,{"stream_name":"stderr","time":132.632699141,"data":"- MISSING:\tthose params were newly initialized because missing from the checkpoint. Consider training on your downstream task.\n"}
+,{"stream_name":"stderr","time":216.296323986,"data":"[transformers] \u001b[1mQwen3ForSequenceClassification LOAD REPORT\u001b[0m from: /root/.cache/huggingface/hub/models--Polygl0t--Tucano2-qwen-1.5B-Instruct/snapshots/82b7b2b2eb06a4c24f4164744cbb63f23d336e8f\n"}
+,{"stream_name":"stderr","time":216.296371285,"data":"Key          | Status  | \n"}
+,{"stream_name":"stderr","time":216.296376175,"data":"-------------+---------+-\n"}
+,{"stream_name":"stderr","time":216.296379191,"data":"score.weight | MISSING | \n"}
+,{"stream_name":"stderr","time":216.296382173,"data":"\n"}
+,{"stream_name":"stderr","time":216.296385105,"data":"Notes:\n"}
+,{"stream_name":"stderr","time":216.296387936,"data":"- MISSING:\tthose params were newly initialized because missing from the checkpoint. Consider training on your downstream task.\n"}
+,{"stream_name":"stderr","time":216.296391065,"data":"\n"}
+,{"stream_name":"stderr","time":216.296393839,"data":"[transformers] \u001b[1mQwen3ForSequenceClassification LOAD REPORT\u001b[0m from: /root/.cache/huggingface/hub/models--Polygl0t--Tucano2-qwen-1.5B-Instruct/snapshots/82b7b2b2eb06a4c24f4164744cbb63f23d336e8f\n"}
+,{"stream_name":"stderr","time":216.296411998,"data":"Key          | Status  | \n"}
+,{"stream_name":"stderr","time":216.296428043,"data":"-------------+---------+-\n"}
+,{"stream_name":"stderr","time":216.296433008,"data":"score.weight | MISSING | \n"}
+,{"stream_name":"stderr","time":216.296437672,"data":"\n"}
+,{"stream_name":"stderr","time":216.296442504,"data":"Notes:\n"}
+,{"stream_name":"stderr","time":216.296447081,"data":"- MISSING:\tthose params were newly initialized because missing from the checkpoint. Consider training on your downstream task.\n"}
+,{"stream_name":"stdout","time":990.516878338,"data":"{\n"}
+,{"stream_name":"stdout","time":990.516933307,"data":"  \"disco_adaptador_mb\": 66.60561752319336,\n"}
+,{"stream_name":"stdout","time":990.516940466,"data":"  \"disco_base_mb\": 2880.2702407836914,\n"}
+,{"stream_name":"stdout","time":990.516945084,"data":"  \"disco_mb\": 2946.8758583068848,\n"}
+,{"stream_name":"stdout","time":990.516957429,"data":"  \"gpu_ms\": 99.01414399999453,\n"}
+,{"stream_name":"stdout","time":990.516961142,"data":"  \"gpu_ms_p95\": 105.15829279995897,\n"}
+,{"stream_name":"stdout","time":990.516964598,"data":"  \"gpu_ms_media\": 99.79865769499922,\n"}
+,{"stream_name":"stdout","time":990.51696808,"data":"  \"gpu_memoria_inferencia_gb\": 1.0045299530029297,\n"}
+,{"stream_name":"stdout","time":990.516971431,"data":"  \"cpu_ms\": 963.0347059999735,\n"}
+,{"stream_name":"stdout","time":990.516975512,"data":"  \"cpu_ms_p95\": 1272.6148848500202,\n"}
+,{"stream_name":"stdout","time":990.516978936,"data":"  \"cpu_ms_media\": 945.4029120000015,\n"}
+,{"stream_name":"stdout","time":990.516982405,"data":"  \"f1_macro_gpu_4bit\": 0.8216786025792038,\n"}
+,{"stream_name":"stdout","time":990.516985981,"data":"  \"f1_macro_cpu_mesclado_fp32\": 0.8109017229452258,\n"}
+,{"stream_name":"stdout","time":990.516989365,"data":"  \"concordancia_cpu_vs_gpu\": 0.9525\n"}
+,{"stream_name":"stdout","time":990.516993218,"data":"}\n"}
+,{"stream_name":"stdout","time":990.527482779,"data":"{\n"}
+,{"stream_name":"stdout","time":990.527502347,"data":"  \"hardware\": {\n"}
+,{"stream_name":"stdout","time":990.527506658,"data":"    \"cpu\": \"Intel(R) Xeon(R) CPU @ 2.00GHz (4 CPUs lógicas)\",\n"}
+,{"stream_name":"stdout","time":990.527511265,"data":"    \"torch_threads_cpu\": 2,\n"}
+,{"stream_name":"stdout","time":990.527514611,"data":"    \"gpu\": \"Tesla T4\",\n"}
+,{"stream_name":"stdout","time":990.527518,"data":"    \"torch\": \"2.11.0+cu130\",\n"}
+,{"stream_name":"stdout","time":990.527528453,"data":"    \"n_textos\": 400,\n"}
+,{"stream_name":"stdout","time":990.527531447,"data":"    \"aquecimento\": 10,\n"}
+,{"stream_name":"stdout","time":990.527533787,"data":"    \"protocolo\": \"lote de 1, tokenização incluída, cada chamada cronometrada; mediana e p95 em ms\",\n"}
+,{"stream_name":"stdout","time":990.527536465,"data":"    \"plataforma\": \"Linux-6.18.55+-x86_64-with-glibc2.39\"\n"}
+,{"stream_name":"stdout","time":990.527538787,"data":"  },\n"}
+,{"stream_name":"stdout","time":990.527540948,"data":"  \"baseline_tfidf_lr\": {\n"}
+,{"stream_name":"stdout","time":990.527543159,"data":"    \"gpu_ms\": null,\n"}
+,{"stream_name":"stdout","time":990.52754543,"data":"    \"disco_mb\": 2.013568878173828,\n"}
+,{"stream_name":"stdout","time":990.527547676,"data":"    \"cpu_ms\": 2.2254945000099724,\n"}
+,{"stream_name":"stdout","time":990.527549904,"data":"    \"cpu_ms_p95\": 2.614773750022436,\n"}
+,{"stream_name":"stdout","time":990.52755229,"data":"    \"cpu_ms_media\": 2.2635612225016644\n"}
+,{"stream_name":"stdout","time":990.527554528,"data":"  },\n"}
+,{"stream_name":"stdout","time":990.527556608,"data":"  \"bertimbau\": {\n"}
+,{"stream_name":"stdout","time":990.527558772,"data":"    \"disco_mb\": 416.2000207901001,\n"}
+,{"stream_name":"stdout","time":990.527561004,"data":"    \"gpu_ms\": 7.278447000004462,\n"}
+,{"stream_name":"stdout","time":990.527563216,"data":"    \"gpu_ms_p95\": 8.16874019998579,\n"}
+,{"stream_name":"stdout","time":990.527565388,"data":"    \"gpu_ms_media\": 7.37345067999982,\n"}
+,{"stream_name":"stdout","time":990.527567578,"data":"    \"cpu_ms\": 61.232027500011554,\n"}
+,{"stream_name":"stdout","time":990.527569768,"data":"    \"cpu_ms_p95\": 89.68817599998145,\n"}
+,{"stream_name":"stdout","time":990.527571928,"data":"    \"cpu_ms_media\": 64.07320268499802\n"}
+,{"stream_name":"stdout","time":990.52757413,"data":"  },\n"}
+,{"stream_name":"stdout","time":990.527576246,"data":"  \"qlora_tucano2_1.5b\": {\n"}
+,{"stream_name":"stdout","time":990.527586065,"data":"    \"disco_adaptador_mb\": 66.60561752319336,\n"}
+,{"stream_name":"stdout","time":990.527588443,"data":"    \"disco_base_mb\": 2880.2702407836914,\n"}
+,{"stream_name":"stdout","time":990.527590722,"data":"    \"disco_mb\": 2946.8758583068848,\n"}
+,{"stream_name":"stdout","time":990.527592933,"data":"    \"gpu_ms\": 99.01414399999453,\n"}
+,{"stream_name":"stdout","time":990.527595123,"data":"    \"gpu_ms_p95\": 105.15829279995897,\n"}
+,{"stream_name":"stdout","time":990.52759732,"data":"    \"gpu_ms_media\": 99.79865769499922,\n"}
+,{"stream_name":"stdout","time":990.527599537,"data":"    \"gpu_memoria_inferencia_gb\": 1.0045299530029297,\n"}
+,{"stream_name":"stdout","time":990.527601857,"data":"    \"cpu_ms\": 963.0347059999735,\n"}
+,{"stream_name":"stdout","time":990.527604037,"data":"    \"cpu_ms_p95\": 1272.6148848500202,\n"}
+,{"stream_name":"stdout","time":990.527606222,"data":"    \"cpu_ms_media\": 945.4029120000015,\n"}
+,{"stream_name":"stdout","time":990.527608403,"data":"    \"f1_macro_gpu_4bit\": 0.8216786025792038,\n"}
+,{"stream_name":"stdout","time":990.527610634,"data":"    \"f1_macro_cpu_mesclado_fp32\": 0.8109017229452258,\n"}
+,{"stream_name":"stdout","time":990.527612956,"data":"    \"concordancia_cpu_vs_gpu\": 0.9525\n"}
+,{"stream_name":"stdout","time":990.527615269,"data":"  }\n"}
+,{"stream_name":"stdout","time":990.527617391,"data":"}\n"}
+,{"stream_name":"stderr","time":996.53783322,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":996.537858777,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":996.710773919,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":996.710795315,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":997.476011409,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to notebook\n"}
+,{"stream_name":"stderr","time":997.558511435,"data":"[NbConvertApp] Writing 92757 bytes to __notebook__.ipynb\n"}
+,{"stream_name":"stderr","time":999.979989323,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":1000.489395329,"data":"[NbConvertApp] Writing 351991 bytes to __results__.html\n"}
+]

@@ -1,0 +1,8 @@
+,pred:atraso_ou_nao_entrega,pred:produto_errado_ou_incompleto,pred:defeito_ou_avaria,pred:qualidade_abaixo_do_esperado,pred:atendimento_vendedor,pred:elogio,pred:outro
+ref:atraso_ou_nao_entrega,72,4,0,0,0,1,4
+ref:produto_errado_ou_incompleto,3,62,2,2,0,0,0
+ref:defeito_ou_avaria,0,2,24,5,0,1,0
+ref:qualidade_abaixo_do_esperado,0,6,1,40,1,0,1
+ref:atendimento_vendedor,3,1,0,0,13,0,0
+ref:elogio,2,1,0,4,0,118,5
+ref:outro,4,2,0,1,1,1,13

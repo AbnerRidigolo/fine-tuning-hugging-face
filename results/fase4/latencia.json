@@ -1,0 +1,43 @@
+{
+  "hardware": {
+    "cpu": "Intel(R) Xeon(R) CPU @ 2.00GHz (4 CPUs lógicas)",
+    "torch_threads_cpu": 2,
+    "gpu": "Tesla T4",
+    "torch": "2.11.0+cu130",
+    "n_textos": 400,
+    "aquecimento": 10,
+    "protocolo": "lote de 1, tokenização incluída, cada chamada cronometrada; mediana e p95 em ms",
+    "plataforma": "Linux-6.18.55+-x86_64-with-glibc2.39"
+  },
+  "baseline_tfidf_lr": {
+    "gpu_ms": null,
+    "disco_mb": 2.013568878173828,
+    "cpu_ms": 2.2254945000099724,
+    "cpu_ms_p95": 2.614773750022436,
+    "cpu_ms_media": 2.2635612225016644
+  },
+  "bertimbau": {
+    "disco_mb": 416.2000207901001,
+    "gpu_ms": 7.278447000004462,
+    "gpu_ms_p95": 8.16874019998579,
+    "gpu_ms_media": 7.37345067999982,
+    "cpu_ms": 61.232027500011554,
+    "cpu_ms_p95": 89.68817599998145,
+    "cpu_ms_media": 64.07320268499802
+  },
+  "qlora_tucano2_1.5b": {
+    "disco_adaptador_mb": 66.60561752319336,
+    "disco_base_mb": 2880.2702407836914,
+    "disco_mb": 2946.8758583068848,
+    "gpu_ms": 99.01414399999453,
+    "gpu_ms_p95": 105.15829279995897,
+    "gpu_ms_media": 99.79865769499922,
+    "gpu_memoria_inferencia_gb": 1.0045299530029297,
+    "cpu_ms": 963.0347059999735,
+    "cpu_ms_p95": 1272.6148848500202,
+    "cpu_ms_media": 945.4029120000015,
+    "f1_macro_gpu_4bit": 0.8216786025792038,
+    "f1_macro_cpu_mesclado_fp32": 0.8109017229452258,
+    "concordancia_cpu_vs_gpu": 0.9525
+  }
+}
