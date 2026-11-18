@@ -18,9 +18,11 @@ de referência após 10 de aquecimento, cada chamada cronometrada; mediana, p95 
 
 Requer o dataset privado com `proj.zip` (código, teste de referência e modelos treinados), GPU T4 e Internet
 (para baixar o modelo base do Tucano2). Saída: `saida_fase4.zip` com `latencia.json`."""),
-(CODE, """%pip install -q transformers==5.22.2 accelerate==1.15.0 peft==0.21.2 bitsandbytes==0.50.2 scikit-learn==1.9.1"""),
+(CODE, """%pip install -q transformers==5.22.2 accelerate==1.15.0 peft==0.21.2 bitsandbytes==0.50.2 scikit-learn==1.9.1
+# a imagem do Kaggle traz torchao 0.10, que o peft 0.21 rejeita ao injetar o LoRA; não usamos torchao
+%pip uninstall -q -y torchao"""),
 (CODE, """import glob, os, shutil, sys, zipfile
-PROJ = "/kaggle/working/proj"
+PROJ = "/tmp/proj"  # fora de /kaggle/working: os modelos não viram saída do notebook
 achado = glob.glob("/kaggle/input/**/src/fase4_latencia.py", recursive=True)
 if achado:                       # o Kaggle extraiu o zip
     shutil.copytree(os.path.dirname(os.path.dirname(achado[0])), PROJ, dirs_exist_ok=True)
@@ -34,7 +36,6 @@ print(torch.__version__, torch.cuda.get_device_name(0), "| CPUs:", os.cpu_count(
 import fase4_latencia
 fase4_latencia.main()"""),
 (CODE, """shutil.make_archive("/kaggle/working/saida_fase4", "zip", "/kaggle/working/saida_fase4")
-shutil.rmtree(PROJ)  # não republica os modelos como saída
 print(open("/kaggle/working/saida_fase4/latencia.json").read())"""),
 ]
 
