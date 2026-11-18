@@ -22,7 +22,7 @@ DIST = RAIZ / "dist" / "hub"
 NOMES_REPO = {"modelo": "bertimbau-motivo-avaliacoes-olist", "adaptador": "tucano2-1.5b-qlora-motivo-avaliacoes-olist",
               "dataset": "olist-motivo-avaliacoes", "space": "motivo-avaliacoes-olist"}
 OLIST = "https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce"
-GITHUB = os.environ.get("GITHUB_REPO_URL", "")  # opcional: link do repositório no GitHub
+GITHUB = "https://github.com/AbnerRidigolo/fine-tuning-hugging-face"
 DESC = {
     "atraso_ou_nao_entrega": "o pedido atrasou (passou do prazo prometido) ou não chegou",
     "produto_errado_ou_incompleto": "veio outro produto, outra cor/tamanho, ou faltando itens/partes",
